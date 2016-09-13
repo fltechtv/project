@@ -81,11 +81,11 @@ https://www.facebook.com/fltechtv/
 #EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-bSFMGtt9aPM/V9fCJ0-GTkI/AAAAAAAAFBo/GJmYkxG-eIUjHomnQ-C-8HZqbPq2O31SgCLcB/w140-h105-p/btsport.png" tvg-name="BT SPORT 2"  group-title="SPORT",BT SPORT 2 (Online)
 http://iphone-streaming.ustream.tv/uhls/22679644/streams/live/iphone/playlist.m3u8
 
-#EXTINF:7, group-title="RELIGION",- [COLOR lightblue]RELIGION[/COLOR] CHANNEL -
+#EXTINF:7, group-title="RELIGION",- [COLOR orange]RELIGION[/COLOR] CHANNEL -
 https://www.facebook.com/fltechtv/
 
 #EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-GtVBMQRYxf4/V9fJb6F7kJI/AAAAAAAAFB4/uPkmEoUe3zYoC7IRIiJADQGbko33F9nFgCLcB/w140-h105-p/meccatv1.jpg" tvg-name="MECCA TV"  group-title="RELIGION",MECCA TV (Online)
 http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel6/_definst_/live/stream1.m3u8
 
 #EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-X8On9IGx-VQ/V9fKiOeprrI/AAAAAAAAFB8/18Bp_IH4FYk6Qz4T5kHkm5X-TcuNCje5ACLcB/w140-h105-p/madinahtv.jpg" tvg-name="MADINAH TV"  group-title="RELIGION",MADINAH TV (Online)
-http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel6/_definst_/live/stream2.m3u8
+http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel7/_definst_/live/stream2.m3u8
