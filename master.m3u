@@ -1,0 +1,37 @@
+#EXTM3U
+
+#EXTINF:7, - [COLOR yellow]MALAYSIA[/COLOR] CHANNEL          (Last Updated on 13/09/2016) by FLTechTV
+https://www.facebook.com/fltechtv/
+
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-7ZY_-V0QrQg/V9aXrehpZmI/AAAAAAAAE9c/ksWuQqXli8A7jfBqLpSRp5br9vXvreZ1ACEw/w140-h105-p/tv1.png" tvg-name="TV1"  group-title="MALAYSIA",TV1 (Offline)
+http://rtm-live.glueapi.io/smil:rtmch001.smil/playlist.m3u8
+
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-6YdIWNJFHjI/V9aYI_UtFHI/AAAAAAAAE9k/fFB3sGu0z6sBetO_3dQpK2OzPlXAf-q4ACEw/w140-h105-p/tv2.png" tvg-name="TV2"  group-title="MALAYSIA",TV2 (Offline)
+http://rtm-live.glueapi.io/smil:rtmch002/playlist.m3u8
+
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-hgqS6rvzQho/V9akXS87lJI/AAAAAAAAE-U/9f2_THBbOPAs9Q2hYI6rMpKHzI7gqbOowCEw/w140-h105-p/tv3.png" tvg-name="TV3"  group-title="MALAYSIA",TV3 (Offline)
+http://rtm-live.glueapi.io/smil:rtmch003.smil/playlist.m3u8
+
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-pTe-tWZTZ00/V9ajsG53j1I/AAAAAAAAE-U/rwP8RynBqTQuIBWPquk5NhuZ8anxxTSkwCEw/w140-h105-p/ntv7.png" tvg-name="NTV7"  group-title="MALAYSIA",NTV7 (Offline)
+http://rtm-live.glueapi.io/smil:rtmch003.smil/playlist.m3u8
+
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-9aCkDgZZCD8/V9ajsb46BPI/AAAAAAAAE-U/7jG87sS04ccCw9D-amlvdIkJt8jUJAThwCEw/w140-h105-p/tv8.png" tvg-name="TV8"  group-title="MALAYSIA",TV8 (Offline)
+http://rtm-live.glueapi.io/smil:rtmch003.smil/playlist.m3u8
+
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-_5GH4tKEVM4/V9ajsFiViuI/AAAAAAAAE-U/G-UCZPD4soMVLCfQvWYerrvV8LTmr-TRQCEw/w140-h105-p/tv9.png" tvg-name="TV9"  group-title="MALAYSIA",TV9 (Offline)
+http://rtm-live.glueapi.io/smil:rtmch003.smil/playlist.m3u8
+
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-pxXNmT41VoY/V9bJTh_XpyI/AAAAAAAAE-w/hPpNTX-Sk3MtQ9OLdKu_8esJjnOjXCJ9wCEw/w140-h105-p/astro_awani.png" tvg-name="ASTRO AWANI"  group-title="MALAYSIA",ASTRO AWANI (Online)
+http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer5.m3u8
+
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-ebMGy6HPBtc/V9brr-f1uCI/AAAAAAAAFBU/Y4Xsbu4R3LYjtWtcbqRfj8uBZ9EHjUhxACEw/w140-h105-p/alhijrah.png" tvg-name="TV ALHIJRAH"  group-title="MALAYSIA",TV ALHIJRAH (Online)
+http://nx-cdn.mynexa.my/tvahlive/smil:tvah_hypptv.smil/playlist.m3u8
+
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-GVfGPJYgyT0/V9bO2aJq-4I/AAAAAAAAFAM/_sGZXfCP44wDDZc8Fnk0mzc40Z2iA6drwCEw/w140-h105-p/bernama.png" tvg-name="BERNAMA TV"  group-title="MALAYSIA",BERNAMA TV (Online)
+http://ss2.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8
+
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-zXIQJd6XMX8/V9bsxHoP6qI/AAAAAAAAFBU/tl56Z0Jv408J6q-KeNk_LEFqTVW6kRZyACEw/w140-h105-p/goshop.png" tvg-name="ASTRO GO SHOP"  group-title="MALAYSIA",ASTRO GO SHOP (Online)
+http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AGSS.m3u8
+
+#EXTINF:7, - [COLOR red]INDONESIA[/COLOR] CHANNEL
+https://www.facebook.com/fltechtv/
