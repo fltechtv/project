@@ -74,3 +74,9 @@ http://livestreaming-a.production.liputan6.static6.com/i/indosiar_1@137568/index
 
 #EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-5e2cHNi8dMY/V9bviB78yyI/AAAAAAAAFBU/vqVL2LDw6_QnPb7wre_na2ZfhIhpNZa9gCEw/w140-h105-p/globaltv.png" tvg-name="GLOBAL TV"  group-title="INDONESIA",GLOBAL TV (Online)
 http://livestreaming-a.production.liputan6.static6.com/i/globaltv_1@137568/index_360_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:7, group-title="SPORT",- [COLOR green]SPORT[/COLOR] CHANNEL -
+https://www.facebook.com/fltechtv/
+
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-bSFMGtt9aPM/V9fCJ0-GTkI/AAAAAAAAFBo/GJmYkxG-eIUjHomnQ-C-8HZqbPq2O31SgCLcB/w140-h105-p/btsport.png" tvg-name="BT SPORT 2"  group-title="SPORT",BT SPORT 2 (Online)
+http://iphone-streaming.ustream.tv/uhls/22679644/streams/live/iphone/playlist.m3u8
