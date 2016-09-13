@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:7, - [COLOR yellow]MALAYSIA[/COLOR] CHANNEL-            (Last Updated on 13/09/2016) by FLTechTV
+#EXTINF:7, group-title="MALAYSIA",- [COLOR yellow]MALAYSIA[/COLOR] CHANNEL -            (Last Updated on 13/09/2016) by FLTechTV
 https://www.facebook.com/fltechtv/
 
 #EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-7ZY_-V0QrQg/V9aXrehpZmI/AAAAAAAAE9c/ksWuQqXli8A7jfBqLpSRp5br9vXvreZ1ACEw/w140-h105-p/tv1.png" tvg-name="TV1"  group-title="MALAYSIA",TV1 (Offline)
@@ -33,7 +33,7 @@ http://ss2.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8
 #EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-zXIQJd6XMX8/V9bsxHoP6qI/AAAAAAAAFBU/tl56Z0Jv408J6q-KeNk_LEFqTVW6kRZyACEw/w140-h105-p/goshop.png" tvg-name="ASTRO GO SHOP"  group-title="MALAYSIA",ASTRO GO SHOP (Online)
 http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AGSS.m3u8
 
-#EXTINF:7, - [COLOR red]INDONESIA[/COLOR] CHANNEL -
+#EXTINF:7, group-title="INDONESIA",- [COLOR red]INDONESIA[/COLOR] CHANNEL -
 https://www.facebook.com/fltechtv/
 
 #EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-Vv3wHFJJVm8/V9bT06cXuZI/AAAAAAAAFAM/uzsNctpQ7SINqS9HKW9QX59eTjsoyQIGwCEw/w140-h105-p/trans7.png" tvg-name="TRANS 7"  group-title="INDONESIA",TRANS 7 (Online)
