@@ -9,8 +9,8 @@ http://rtm-live.glueapi.io/smil:rtmch001.smil/playlist.m3u8
 #EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-6YdIWNJFHjI/V9aYI_UtFHI/AAAAAAAAE9k/fFB3sGu0z6sBetO_3dQpK2OzPlXAf-q4ACEw/w140-h105-p/tv2.png" tvg-name="TV2"  group-title="MALAYSIA",TV2 (Offline)
 http://rtm-live.glueapi.io/smil:rtmch002/playlist.m3u8
 
-#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-hgqS6rvzQho/V9akXS87lJI/AAAAAAAAE-U/9f2_THBbOPAs9Q2hYI6rMpKHzI7gqbOowCEw/w140-h105-p/tv3.png" tvg-name="TV3"  group-title="MALAYSIA",TV3 (Offline)
-http://rtm-live.glueapi.io/smil:rtmch003.smil/playlist.m3u8
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-hgqS6rvzQho/V9akXS87lJI/AAAAAAAAE-U/9f2_THBbOPAs9Q2hYI6rMpKHzI7gqbOowCEw/w140-h105-p/tv3.png" tvg-name="TV3"  group-title="MALAYSIA",TV3 (Online)
+http://iphone-streaming.ustream.tv/uhls/22721485/streams/live/iphone/playlist.m3u8
 
 #EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-pTe-tWZTZ00/V9ajsG53j1I/AAAAAAAAE-U/rwP8RynBqTQuIBWPquk5NhuZ8anxxTSkwCEw/w140-h105-p/ntv7.png" tvg-name="NTV7"  group-title="MALAYSIA",NTV7 (Offline)
 http://rtm-live.glueapi.io/smil:rtmch003.smil/playlist.m3u8
