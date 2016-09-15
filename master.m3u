@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:7, group-title="MALAYSIA",- [COLOR yellow]MALAYSIA[/COLOR] CHANNEL -            (Last Updated on 13/09/2016) by FLTechTV
+#EXTINF:7, group-title="MALAYSIA",- [COLOR yellow]MALAYSIA CHANNEL[/COLOR] -            (Last Updated on 15/09/2016) by FLTechTV
 https://www.facebook.com/fltechtv/
 
 #EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-7ZY_-V0QrQg/V9aXrehpZmI/AAAAAAAAE9c/ksWuQqXli8A7jfBqLpSRp5br9vXvreZ1ACEw/w140-h105-p/tv1.png" tvg-name="TV1"  group-title="MALAYSIA",TV1 (Offline)
@@ -36,7 +36,7 @@ http://ss2.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8
 #EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-zXIQJd6XMX8/V9bsxHoP6qI/AAAAAAAAFBU/tl56Z0Jv408J6q-KeNk_LEFqTVW6kRZyACEw/w140-h105-p/goshop.png" tvg-name="ASTRO GO SHOP"  group-title="MALAYSIA",ASTRO GO SHOP (Online)
 http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AGSS.m3u8
 
-#EXTINF:7, group-title="INDONESIA",- [COLOR red]INDONESIA[/COLOR] CHANNEL -
+#EXTINF:7, group-title="INDONESIA",- [COLOR red]INDONESIA CHANNEL[/COLOR] -
 https://www.facebook.com/fltechtv/
 
 #EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-Vv3wHFJJVm8/V9bT06cXuZI/AAAAAAAAFAM/uzsNctpQ7SINqS9HKW9QX59eTjsoyQIGwCEw/w140-h105-p/trans7.png" tvg-name="TRANS 7"  group-title="INDONESIA",TRANS 7 (Online)
@@ -78,13 +78,16 @@ http://livestreaming-a.production.liputan6.static6.com/i/indosiar_1@137568/index
 #EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-5e2cHNi8dMY/V9bviB78yyI/AAAAAAAAFBU/vqVL2LDw6_QnPb7wre_na2ZfhIhpNZa9gCEw/w140-h105-p/globaltv.png" tvg-name="GLOBAL TV"  group-title="INDONESIA",GLOBAL TV (Online)
 http://livestreaming-a.production.liputan6.static6.com/i/globaltv_1@137568/index_360_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:7, group-title="SPORT",- [COLOR green]SPORT[/COLOR] CHANNEL -
+#EXTINF:7, group-title="SPORT",- [COLOR green]SPORT CHANNEL[/COLOR] -
 https://www.facebook.com/fltechtv/
 
 #EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-bSFMGtt9aPM/V9fCJ0-GTkI/AAAAAAAAFBo/GJmYkxG-eIUjHomnQ-C-8HZqbPq2O31SgCLcB/w140-h105-p/btsport.png" tvg-name="BT SPORT 2"  group-title="SPORT",BT SPORT 2 (Offline)
-http://iphone-streaming.ustream.tv/uhls/22679644/streams/live/iphone/playlist.m3u8
+http://IPTV-VOLKAN.NET:8000/live/stream3-iptv/test12/2501.m3u8
 
-#EXTINF:7, group-title="RELIGION",- [COLOR orange]RELIGION[/COLOR] CHANNEL -
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-MVUh7E--D_w/V9oshkbyhlI/AAAAAAAAFC0/c1BJZ3jNQm81sSVlyaXf5lWUgl6vfdmOgCLcB/w140-h105-p/eurosport.png" tvg-name="EUROSPORT"  group-title="SPORT",EUROSPORT (Online)
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+
+#EXTINF:7, group-title="RELIGION",- [COLOR orange]RELIGION CHANNEL[/COLOR] -
 https://www.facebook.com/fltechtv/
 
 #EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-GtVBMQRYxf4/V9fJb6F7kJI/AAAAAAAAFB4/uPkmEoUe3zYoC7IRIiJADQGbko33F9nFgCLcB/w140-h105-p/meccatv1.jpg" tvg-name="MECCA TV"  group-title="RELIGION",MECCA TV (Online)
