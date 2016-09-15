@@ -81,17 +81,50 @@ http://livestreaming-a.production.liputan6.static6.com/i/globaltv_1@137568/index
 #EXTINF:7, group-title="SPORT",- [COLOR green]SPORT CHANNEL[/COLOR] -
 https://www.facebook.com/fltechtv/
 
-#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-bSFMGtt9aPM/V9fCJ0-GTkI/AAAAAAAAFBo/GJmYkxG-eIUjHomnQ-C-8HZqbPq2O31SgCLcB/w140-h105-p/btsport.png" tvg-name="BT SPORT 2"  group-title="SPORT",BT SPORT 2 (Offline)
-http://IPTV-VOLKAN.NET:8000/live/stream3-iptv/test12/2501.m3u8
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-AIV11PA1dLA/V9pCmnF1r3I/AAAAAAAAFDE/e8GpABuofaE_ODCzqVV1Ru2rSK1B-Iu_wCLcB/w140-h105-p/btsport1.jpg" tvg-name="BT SPORT 1"  group-title="SPORT",BT SPORT 1 (Online)
+http://5.9.118.115:8000/live/harry/Harry/519.ts
+
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-BAa394dV5V8/V9pCmqzFW0I/AAAAAAAAFDI/jTWLvatBTBENXtTGV4qp-42kYFNMbeezACLcB/w140-h105-p/btsport2.jpg" tvg-name="BT SPORT 2"  group-title="SPORT",BT SPORT 2 (Online)
+http://5.9.118.115:8000/live/harry/Harry/520.ts
 
 #EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-MVUh7E--D_w/V9oshkbyhlI/AAAAAAAAFC0/c1BJZ3jNQm81sSVlyaXf5lWUgl6vfdmOgCLcB/w140-h105-p/eurosport.png" tvg-name="EUROSPORT"  group-title="SPORT",EUROSPORT (Online)
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
 
-#EXTINF:7, group-title="RELIGION",- [COLOR orange]RELIGION CHANNEL[/COLOR] -
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-W135GgZeO5A/V9pEik8mz1I/AAAAAAAAFDY/z4m_J4kHvaEHCVwQx0Ki3JIx7N_e5Q2cACLcB/w140-h105-p/skysport1.png" tvg-name="UK SKYSPORT 1"  group-title="SPORT",UK SKYSPORT 1 (Online)
+http://5.9.118.115:8000/live/harry/Harry/684.ts
+
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-XFZ3VR7wZcI/V9pEioUB2jI/AAAAAAAAFDU/pjwuvktqcIkZH1PrFF2UO1g8U0ckGlV6gCLcB/w140-h105-p/skysport2.png" tvg-name="UK SKYSPORT 2"  group-title="SPORT",UK SKYSPORT 2 (Online)
+http://5.9.118.115:8000/live/harry/Harry/685.ts
+
+#EXTINF:7, group-title="KIDS",- [COLOR pink]KIDS CHANNEL[/COLOR] -
 https://www.facebook.com/fltechtv/
 
-#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-GtVBMQRYxf4/V9fJb6F7kJI/AAAAAAAAFB4/uPkmEoUe3zYoC7IRIiJADQGbko33F9nFgCLcB/w140-h105-p/meccatv1.jpg" tvg-name="MECCA TV"  group-title="RELIGION",MECCA TV (Online)
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-1l2R5-Gykl0/V9pO-mJt8BI/AAAAAAAAFD4/9TYIx_HynMkIL2RpfTuteP0gAGSCRBmrgCLcB/w140-h105-p/disneyjunior.png" tvg-name="DISNEY JUNIOR"  group-title="KIDS",DISNEY JUNIOR (Online)
+http://5.9.118.115:8000/live/harry/Harry/706.ts
+
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-Trm4hE2VjYg/V9pO-g7A_UI/AAAAAAAAFD8/XbqjDdLGes09XmGq-U27wBU0IYPG1LNbwCLcB/w140-h105-p/disneychannel.png" tvg-name="DISNEY CHANNEL"  group-title="KIDS",DISNEY CHANNEL (Online)
+http://5.9.118.115:8000/live/harry/Harry/707.ts
+
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-Uc1vjdF3xKA/V9pQFD6oMDI/AAAAAAAAFEA/eF5R6UWvBLsllExvIleJvfMPQj7bqqIPgCLcB/w140-h105-p/nickjrtoo.png" tvg-name="NICK JR TOO"  group-title="KIDS",NICK JR TOO (Online)
+http://5.9.118.115:8000/live/harry/Harry/703.ts
+
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-PRcL82j0vmo/V9pQ34buhlI/AAAAAAAAFEE/9L5lV0NRsQoUpwGQ0Wo713T06F8T82eMACLcB/w140-h105-p/disneyxd.png" tvg-name="DISNEY XD"  group-title="KIDS",DISNEY XD (Online)
+http://5.9.118.115:8000/live/harry/Harry/705.ts
+
+#EXTINF:7, group-title="OTHERS",- [COLOR purple]OTHERS CHANNEL[/COLOR] -
+https://www.facebook.com/fltechtv/
+
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-XJ78bx4FLgk/V9pNBkIWjvI/AAAAAAAAFDo/Zpl5u45NrLc76gMSex6-mSrsevb6kLfwACLcB/w140-h46-p/discoveryturbo.png" tvg-name="DISCOVERY TURBO"  group-title="OTHERS",DISCOVERY TURBO (Online)
+http://5.9.118.115:8000/live/harry/Harry/720.ts
+
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-Cty4ibGz9Bw/V9pJO0m9ckI/AAAAAAAAFDg/pPYqk8qWwacI6oPor6IzkyRGwmIaPP8uACLcB/w140-h96-p/natgeowild.png" tvg-name="NAT GEO WILD"  group-title="OTHERS",NAT GEO WILD (Online)
+http://5.9.118.115:8000/live/harry/Harry/675.ts
+
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-YTkSNSNHoXc/V9pMJjMhLJI/AAAAAAAAFDk/qKY1SXH5BlgUKwncV4fyi_aaGmEX8ppcgCLcB/w140-h105-p/nationalgeographic.png" tvg-name="NATIONAL GEOGRAPHIC"  group-title="OTHERS",NATIONAL GEOGRAPHIC (Online)
+http://5.9.118.115:8000/live/harry/Harry/676.ts
+
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-GtVBMQRYxf4/V9fJb6F7kJI/AAAAAAAAFB4/uPkmEoUe3zYoC7IRIiJADQGbko33F9nFgCLcB/w140-h105-p/meccatv1.jpg" tvg-name="MECCA TV"  group-title="OTHERS",MECCA TV (Online)
 http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel6/_definst_/live/stream1.m3u8
 
-#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-X8On9IGx-VQ/V9fKiOeprrI/AAAAAAAAFB8/18Bp_IH4FYk6Qz4T5kHkm5X-TcuNCje5ACLcB/w140-h105-p/madinahtv.jpg" tvg-name="MADINAH TV"  group-title="RELIGION",MADINAH TV (Online)
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-X8On9IGx-VQ/V9fKiOeprrI/AAAAAAAAFB8/18Bp_IH4FYk6Qz4T5kHkm5X-TcuNCje5ACLcB/w140-h105-p/madinahtv.jpg" tvg-name="MADINAH TV"  group-title="OTHERS",MADINAH TV (Online)
 http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel7/_definst_/live/stream2.m3u8
