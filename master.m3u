@@ -81,6 +81,9 @@ http://livestreaming-a.production.liputan6.static6.com/i/globaltv_1@137568/index
 #EXTINF:7, group-title="SPORT",- [COLOR green]SPORT CHANNEL[/COLOR] -
 https://www.facebook.com/fltechtv/
 
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-J3MXK9G11aU/V9pWlNABTFI/AAAAAAAAFEQ/9Bd4lo_j0-svqDAdq4wZMJK5Av7vCA2DACLcB/w140-h105-p/mutv.jpg" tvg-name="MU TV"  group-title="SPORT",MU TV (Online)
+http://5.9.118.115:8000/live/harry/Harry/677.ts
+
 #EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-AIV11PA1dLA/V9pCmnF1r3I/AAAAAAAAFDE/e8GpABuofaE_ODCzqVV1Ru2rSK1B-Iu_wCLcB/w140-h105-p/btsport1.jpg" tvg-name="BT SPORT 1"  group-title="SPORT",BT SPORT 1 (Online)
 http://5.9.118.115:8000/live/harry/Harry/519.ts
 
@@ -88,7 +91,7 @@ http://5.9.118.115:8000/live/harry/Harry/519.ts
 http://5.9.118.115:8000/live/harry/Harry/520.ts
 
 #EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-MVUh7E--D_w/V9oshkbyhlI/AAAAAAAAFC0/c1BJZ3jNQm81sSVlyaXf5lWUgl6vfdmOgCLcB/w140-h105-p/eurosport.png" tvg-name="EUROSPORT"  group-title="SPORT",EUROSPORT (Online)
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+http://5.9.118.115:8000/live/harry/Harry/1218.ts
 
 #EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-W135GgZeO5A/V9pEik8mz1I/AAAAAAAAFDY/z4m_J4kHvaEHCVwQx0Ki3JIx7N_e5Q2cACLcB/w140-h105-p/skysport1.png" tvg-name="UK SKYSPORT 1"  group-title="SPORT",UK SKYSPORT 1 (Online)
 http://5.9.118.115:8000/live/harry/Harry/684.ts
@@ -113,6 +116,18 @@ http://5.9.118.115:8000/live/harry/Harry/705.ts
 
 #EXTINF:7, group-title="OTHERS",- [COLOR purple]OTHERS CHANNEL[/COLOR] -
 https://www.facebook.com/fltechtv/
+
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-C2-p1lm6HMs/V9pbqF4mDVI/AAAAAAAAFEo/I_hFsdZ-bLgd7t0IqmQqX6-nWEjpLlVgQCLcB/w140-h105-p/nasatv.png" tvg-name="NASA TV"  group-title="OTHERS",NASA TV (Online)
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-119XCBW581E/V9parCBJZ6I/AAAAAAAAFEk/X0K8NT8cJWEya18aDMUiiWOIQOgpkiiCQCLcB/w140-h105-p/nhkworld.png" tvg-name="NHK WORLD"  group-title="OTHERS",NHK WORLD (Online)
+http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
+
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-TsyBfW_olV4/V9paAYx6sMI/AAAAAAAAFEc/Fyj1E_cwwS0u1cIHT5JIsvhRwNq7kX3RACLcB/w140-h105-p/aljazeera.jpg" tvg-name="ALJAZEERA"  group-title="OTHERS",ALJAZEERA (Online)
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
+
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-yzG7alJ_Xh4/V9pZH08aWQI/AAAAAAAAFEY/A5-Y_C-YFoAHcaCwklBpn0fJ3EtOZY_2QCLcB/w140-h105-p/cctv9.png" tvg-name="CCTV9"  group-title="OTHERS",CCTV9 (Online)
+http://125.88.92.166:30001/PLTV/88888956/224/3221227669/1.m3u8
 
 #EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-XJ78bx4FLgk/V9pNBkIWjvI/AAAAAAAAFDo/Zpl5u45NrLc76gMSex6-mSrsevb6kLfwACLcB/w140-h46-p/discoveryturbo.png" tvg-name="DISCOVERY TURBO"  group-title="OTHERS",DISCOVERY TURBO (Online)
 http://5.9.118.115:8000/live/harry/Harry/720.ts
