@@ -87,8 +87,8 @@ http://5.9.118.115:8000/live/harry/Harry/677.ts
 #EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-AIV11PA1dLA/V9pCmnF1r3I/AAAAAAAAFDE/e8GpABuofaE_ODCzqVV1Ru2rSK1B-Iu_wCLcB/w140-h105-p/btsport1.jpg" tvg-name="BT SPORT 1"  group-title="SPORT",BT SPORT 1 (Online)
 http://5.9.118.115:8000/live/harry/Harry/519.ts
 
-#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-BAa394dV5V8/V9pCmqzFW0I/AAAAAAAAFDI/jTWLvatBTBENXtTGV4qp-42kYFNMbeezACLcB/w140-h105-p/btsport2.jpg" tvg-name="BT SPORT 2"  group-title="SPORT",BT SPORT 2 (Online)
-http://5.9.118.115:8000/live/harry/Harry/520.ts
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-BAa394dV5V8/V9pCmqzFW0I/AAAAAAAAFDI/jTWLvatBTBENXtTGV4qp-42kYFNMbeezACLcB/w140-h105-p/btsport2.jpg" tvg-name="BT SPORT 2"  group-title="SPORT",BT SPORT 2 (Offline)
+http://5.9.118.115:8000/live/harry/Harry/
 
 #EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-MVUh7E--D_w/V9oshkbyhlI/AAAAAAAAFC0/c1BJZ3jNQm81sSVlyaXf5lWUgl6vfdmOgCLcB/w140-h105-p/eurosport.png" tvg-name="EUROSPORT"  group-title="SPORT",EUROSPORT (Online)
 http://5.9.118.115:8000/live/harry/Harry/1218.ts
