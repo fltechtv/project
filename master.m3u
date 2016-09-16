@@ -21,9 +21,6 @@ http://rtm-live.glueapi.io/smil:rtmch003.smil/playlist.m3u8
 #EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-_5GH4tKEVM4/V9ajsFiViuI/AAAAAAAAE-U/G-UCZPD4soMVLCfQvWYerrvV8LTmr-TRQCEw/w140-h105-p/tv9.png" tvg-name="TV9"  group-title="MALAYSIA",TV9 [COLOR red]-Offline-[/COLOR]
 http://rtm-live.glueapi.io/smil:rtmch003.smil/playlist.m3u8
 
-#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-zCcaOkQwVyg/V9lcRafZEUI/AAAAAAAAFCQ/uVkRrNV0dsMbWfowGxcUKZvMQ2wUzJw3wCLcB/w140-h73-p/astro_arena.png" tvg-name="ASTRO ARENA"  group-title="MALAYSIA",ASTRO ARENA [COLOR red]-Offline-[/COLOR]
-http://iphone-streaming.ustream.tv/uhls/22724120/streams/live/iphone/playlist.m3u8
-
 #EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-pxXNmT41VoY/V9bJTh_XpyI/AAAAAAAAE-w/hPpNTX-Sk3MtQ9OLdKu_8esJjnOjXCJ9wCEw/w140-h105-p/astro_awani.png" tvg-name="ASTRO AWANI"  group-title="MALAYSIA",ASTRO AWANI
 http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer5.m3u8
 
@@ -81,14 +78,35 @@ http://livestreaming-a.production.liputan6.static6.com/i/globaltv_1@137568/index
 #EXTINF:7, group-title="SPORT",- [COLOR yellow]SPORT CHANNEL[/COLOR] -
 https://www.facebook.com/fltechtv/
 
-#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-J3MXK9G11aU/V9pWlNABTFI/AAAAAAAAFEQ/9Bd4lo_j0-svqDAdq4wZMJK5Av7vCA2DACLcB/w140-h105-p/mutv.jpg" tvg-name="MUTV"  group-title="SPORT",MUTV
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-zCcaOkQwVyg/V9lcRafZEUI/AAAAAAAAFCQ/uVkRrNV0dsMbWfowGxcUKZvMQ2wUzJw3wCLcB/w140-h73-p/astro_arena.png" tvg-name="ASTRO ARENA"  group-title="SPORT",ASTRO ARENA [COLOR red]-Offline-[/COLOR]
+http://iphone-streaming.ustream.tv/uhls/22724120/streams/live/iphone/playlist.m3u8
+
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-EYkBkdx23v4/V9wciG-dCvI/AAAAAAAAFFI/ticl7yKwRVg51TH-wPEEGXjrIQgn8MdlwCLcB/w140-h105-p/astro-supersport.jpg" tvg-name="ASTRO SUPERSPORT 1"  group-title="SPORT",ASTRO SUPERSPORT 1
+http://51.255.70.112:8000/live/pg/pg/1739.ts
+
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-uOWI-x3Jo_I/V9wciOntalI/AAAAAAAAFFQ/hGeAQymDloE4fkdAjgiPSENGrDG3vYFSwCLcB/w140-h105-p/astro-supersport-2.jpg" tvg-name="ASTRO SUPERSPORT 2"  group-title="SPORT",ASTRO SUPERSPORT 2
+http://51.255.70.112:8000/live/pg/pg/1740.ts
+
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-jlKeoa1dM2M/V9wciRhDRSI/AAAAAAAAFFM/jdtOqemnWcQlH2sRUdViIyhGNp1P5RaiACLcB/w140-h105-p/astro-supersport-3.jpg" tvg-name="ASTRO SUPERSPORT 3"  group-title="SPORT",ASTRO SUPERSPORT 3
+http://51.255.70.112:8000/live/pg/pg/1741.ts
+
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-oNPTB9q2atM/V9wcizD8GOI/AAAAAAAAFFU/ZrHjbbPehsAiw-Ac1-S3yr4cbJfgKeOGQCLcB/w140-h105-p/astro_supersport_4.png" tvg-name="ASTRO SUPERSPORT 4"  group-title="SPORT",ASTRO SUPERSPORT 4
+http://51.255.70.112:8000/live/pg/pg/1893.ts
+
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-J3MXK9G11aU/V9pWlNABTFI/AAAAAAAAFEQ/9Bd4lo_j0-svqDAdq4wZMJK5Av7vCA2DACLcB/w140-h105-p/mutv.jpg" tvg-name="MU TV"  group-title="SPORT",MU TV
 http://5.9.118.115:8000/live/harry/Harry/677.ts
+
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-dweme2uCGhw/V9wduPhBI3I/AAAAAAAAFFY/RgCpRuSKyNQwMriyLtk2p6ujyJaQrgSGACLcB/w140-h105-p/chelseatv.png" tvg-name="CHELSEA TV"  group-title="SPORT",CHELSEA TV
+http://51.255.70.112:8000/live/pg/pg/723.ts
+
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-F3jLK8jep7Q/V9wedavilpI/AAAAAAAAFFc/4oL0Xf45Di4988ypvMyKjMoBZYUQ5cukwCLcB/w140-h105-p/lfctv.jpg" tvg-name="LIVERPOOLFC TV"  group-title="SPORT",LIVERPOOLFC TV
+http://51.255.70.112:8000/live/pg/pg/720.ts
 
 #EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-AIV11PA1dLA/V9pCmnF1r3I/AAAAAAAAFDE/e8GpABuofaE_ODCzqVV1Ru2rSK1B-Iu_wCLcB/w140-h105-p/btsport1.jpg" tvg-name="BTSPORT 1"  group-title="SPORT",BTSPORT 1
 http://5.9.118.115:8000/live/harry/Harry/519.ts
 
-#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-BAa394dV5V8/V9pCmqzFW0I/AAAAAAAAFDI/jTWLvatBTBENXtTGV4qp-42kYFNMbeezACLcB/w140-h105-p/btsport2.jpg" tvg-name="BTSPORT 2"  group-title="SPORT",BTSPORT 2 [COLOR red]-Offline-[/COLOR]
-http://5.9.118.115:8000/live/harry/Harry/
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-BAa394dV5V8/V9pCmqzFW0I/AAAAAAAAFDI/jTWLvatBTBENXtTGV4qp-42kYFNMbeezACLcB/w140-h105-p/btsport2.jpg" tvg-name="BTSPORT 2"  group-title="SPORT",BTSPORT 2
+http://51.255.70.112:8000/live/pg/pg/1981.ts
 
 #EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-MVUh7E--D_w/V9oshkbyhlI/AAAAAAAAFC0/c1BJZ3jNQm81sSVlyaXf5lWUgl6vfdmOgCLcB/w140-h105-p/eurosport.png" tvg-name="EUROSPORT"  group-title="SPORT",EUROSPORT
 http://5.9.118.115:8000/live/harry/Harry/1218.ts
