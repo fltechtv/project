@@ -22,7 +22,7 @@ http://rtm-live.glueapi.io/smil:rtmch003.smil/playlist.m3u8
 http://rtm-live.glueapi.io/smil:rtmch003.smil/playlist.m3u8
 
 #EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-zCcaOkQwVyg/V9lcRafZEUI/AAAAAAAAFCQ/uVkRrNV0dsMbWfowGxcUKZvMQ2wUzJw3wCLcB/w140-h73-p/astro_arena.png" tvg-name="ASTRO ARENA"  group-title="MALAYSIA",ASTRO ARENA (Online)
-http://iphone-streaming.ustream.tv/uhls/22724098/streams/live/iphone/playlist.m3u8
+http://iphone-streaming.ustream.tv/uhls/22724120/streams/live/iphone/playlist.m3u8
 
 #EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-pxXNmT41VoY/V9bJTh_XpyI/AAAAAAAAE-w/hPpNTX-Sk3MtQ9OLdKu_8esJjnOjXCJ9wCEw/w140-h105-p/astro_awani.png" tvg-name="ASTRO AWANI"  group-title="MALAYSIA",ASTRO AWANI (Online)
 http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer5.m3u8
@@ -116,6 +116,9 @@ http://5.9.118.115:8000/live/harry/Harry/705.ts
 
 #EXTINF:7, group-title="OTHERS",- [COLOR purple]OTHERS CHANNEL[/COLOR] -
 https://www.facebook.com/fltechtv/
+
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-NIqrF9vTiZA/V9tVrgm4PJI/AAAAAAAAFE4/sXQ8VDHROaYYLsXwxRUy0iSrbc1dVwomwCLcB/w140-h105-p/aljazeerakids.jpg" tvg-name="ALJAZEERA KIDS"  group-title="OTHERS",ALJAZEERA KIDS (Online)
+http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8
 
 #EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-C2-p1lm6HMs/V9pbqF4mDVI/AAAAAAAAFEo/I_hFsdZ-bLgd7t0IqmQqX6-nWEjpLlVgQCLcB/w140-h105-p/nasatv.png" tvg-name="NASA TV"  group-title="OTHERS",NASA TV (Online)
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
