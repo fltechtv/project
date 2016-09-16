@@ -36,7 +36,7 @@ http://ss2.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8
 #EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-zXIQJd6XMX8/V9bsxHoP6qI/AAAAAAAAFBU/tl56Z0Jv408J6q-KeNk_LEFqTVW6kRZyACEw/w140-h105-p/goshop.png" tvg-name="ASTRO GO SHOP"  group-title="MALAYSIA",ASTRO GO SHOP
 http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AGSS.m3u8
 
-#EXTINF:7, group-title="INDONESIA",- [COLOR red]INDONESIA CHANNEL[/COLOR] -
+#EXTINF:7, group-title="INDONESIA",- [COLOR yellow]INDONESIA CHANNEL[/COLOR] -
 https://www.facebook.com/fltechtv/
 
 #EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-Vv3wHFJJVm8/V9bT06cXuZI/AAAAAAAAFAM/uzsNctpQ7SINqS9HKW9QX59eTjsoyQIGwCEw/w140-h105-p/trans7.png" tvg-name="TRANS 7"  group-title="INDONESIA",TRANS 7
@@ -78,7 +78,7 @@ http://livestreaming-a.production.liputan6.static6.com/i/indosiar_1@137568/index
 #EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-5e2cHNi8dMY/V9bviB78yyI/AAAAAAAAFBU/vqVL2LDw6_QnPb7wre_na2ZfhIhpNZa9gCEw/w140-h105-p/globaltv.png" tvg-name="GLOBAL TV"  group-title="INDONESIA",GLOBAL TV
 http://livestreaming-a.production.liputan6.static6.com/i/globaltv_1@137568/index_360_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:7, group-title="SPORT",- [COLOR green]SPORT CHANNEL[/COLOR] -
+#EXTINF:7, group-title="SPORT",- [COLOR yellow]SPORT CHANNEL[/COLOR] -
 https://www.facebook.com/fltechtv/
 
 #EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-J3MXK9G11aU/V9pWlNABTFI/AAAAAAAAFEQ/9Bd4lo_j0-svqDAdq4wZMJK5Av7vCA2DACLcB/w140-h105-p/mutv.jpg" tvg-name="MUTV"  group-title="SPORT",MUTV
@@ -99,7 +99,7 @@ http://5.9.118.115:8000/live/harry/Harry/684.ts
 #EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-XFZ3VR7wZcI/V9pEioUB2jI/AAAAAAAAFDU/pjwuvktqcIkZH1PrFF2UO1g8U0ckGlV6gCLcB/w140-h105-p/skysport2.png" tvg-name="UKSKYSPORT 2"  group-title="SPORT",UKSKYSPORT 2
 http://5.9.118.115:8000/live/harry/Harry/685.ts
 
-#EXTINF:7, group-title="KIDS",- [COLOR pink]KIDS CHANNEL[/COLOR] -
+#EXTINF:7, group-title="KIDS",- [COLOR yellow]KIDS CHANNEL[/COLOR] -
 https://www.facebook.com/fltechtv/
 
 #EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-NIqrF9vTiZA/V9tVrgm4PJI/AAAAAAAAFE4/sXQ8VDHROaYYLsXwxRUy0iSrbc1dVwomwCLcB/w140-h105-p/aljazeerakids.jpg" tvg-name="ALJAZEERA KIDS"  group-title="OTHERS",ALJAZEERA KIDS
@@ -117,7 +117,7 @@ http://5.9.118.115:8000/live/harry/Harry/703.ts
 #EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-PRcL82j0vmo/V9pQ34buhlI/AAAAAAAAFEE/9L5lV0NRsQoUpwGQ0Wo713T06F8T82eMACLcB/w140-h105-p/disneyxd.png" tvg-name="DISNEY XD"  group-title="KIDS",DISNEY XD
 http://5.9.118.115:8000/live/harry/Harry/705.ts
 
-#EXTINF:7, group-title="OTHERS",- [COLOR purple]OTHERS CHANNEL[/COLOR] -
+#EXTINF:7, group-title="OTHERS",- [COLOR yellow]OTHERS CHANNEL[/COLOR] -
 https://www.facebook.com/fltechtv/
 
 #EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-C2-p1lm6HMs/V9pbqF4mDVI/AAAAAAAAFEo/I_hFsdZ-bLgd7t0IqmQqX6-nWEjpLlVgQCLcB/w140-h105-p/nasatv.png" tvg-name="NASA TV"  group-title="OTHERS",NASA TV
