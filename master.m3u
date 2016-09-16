@@ -3,25 +3,25 @@
 #EXTINF:7, group-title="MALAYSIA",- [COLOR yellow]MALAYSIA CHANNEL[/COLOR] -            (Last Updated on 16/09/2016) by FLTechTV
 https://www.facebook.com/fltechtv/
 
-#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-7ZY_-V0QrQg/V9aXrehpZmI/AAAAAAAAE9c/ksWuQqXli8A7jfBqLpSRp5br9vXvreZ1ACEw/w140-h105-p/tv1.png" tvg-name="TV1"  group-title="MALAYSIA",TV1
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-7ZY_-V0QrQg/V9aXrehpZmI/AAAAAAAAE9c/ksWuQqXli8A7jfBqLpSRp5br9vXvreZ1ACEw/w140-h105-p/tv1.png" tvg-name="TV1"  group-title="MALAYSIA",TV1 [COLOR red]-Offline-[/COLOR]
 http://rtm-live.glueapi.io/smil:rtmch001.smil/playlist.m3u8
 
-#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-6YdIWNJFHjI/V9aYI_UtFHI/AAAAAAAAE9k/fFB3sGu0z6sBetO_3dQpK2OzPlXAf-q4ACEw/w140-h105-p/tv2.png" tvg-name="TV2"  group-title="MALAYSIA",TV2
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-6YdIWNJFHjI/V9aYI_UtFHI/AAAAAAAAE9k/fFB3sGu0z6sBetO_3dQpK2OzPlXAf-q4ACEw/w140-h105-p/tv2.png" tvg-name="TV2"  group-title="MALAYSIA",TV2 [COLOR red]-Offline-[/COLOR]
 http://rtm-live.glueapi.io/smil:rtmch002/playlist.m3u8
 
-#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-hgqS6rvzQho/V9akXS87lJI/AAAAAAAAE-U/9f2_THBbOPAs9Q2hYI6rMpKHzI7gqbOowCEw/w140-h105-p/tv3.png" tvg-name="TV3"  group-title="MALAYSIA",TV3
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-hgqS6rvzQho/V9akXS87lJI/AAAAAAAAE-U/9f2_THBbOPAs9Q2hYI6rMpKHzI7gqbOowCEw/w140-h105-p/tv3.png" tvg-name="TV3"  group-title="MALAYSIA",TV3 [COLOR red]-Offline-[/COLOR]
 http://rtm-live.glueapi.io/smil:rtmch003/playlist.m3u8
 
-#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-pTe-tWZTZ00/V9ajsG53j1I/AAAAAAAAE-U/rwP8RynBqTQuIBWPquk5NhuZ8anxxTSkwCEw/w140-h105-p/ntv7.png" tvg-name="NTV7"  group-title="MALAYSIA",NTV7
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-pTe-tWZTZ00/V9ajsG53j1I/AAAAAAAAE-U/rwP8RynBqTQuIBWPquk5NhuZ8anxxTSkwCEw/w140-h105-p/ntv7.png" tvg-name="NTV7"  group-title="MALAYSIA",NTV7 [COLOR red]-Offline-[/COLOR]
 http://rtm-live.glueapi.io/smil:rtmch003.smil/playlist.m3u8
 
-#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-9aCkDgZZCD8/V9ajsb46BPI/AAAAAAAAE-U/7jG87sS04ccCw9D-amlvdIkJt8jUJAThwCEw/w140-h105-p/tv8.png" tvg-name="TV8"  group-title="MALAYSIA",TV8
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-9aCkDgZZCD8/V9ajsb46BPI/AAAAAAAAE-U/7jG87sS04ccCw9D-amlvdIkJt8jUJAThwCEw/w140-h105-p/tv8.png" tvg-name="TV8"  group-title="MALAYSIA",TV8 [COLOR red]-Offline-[/COLOR]
 http://rtm-live.glueapi.io/smil:rtmch003.smil/playlist.m3u8
 
-#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-_5GH4tKEVM4/V9ajsFiViuI/AAAAAAAAE-U/G-UCZPD4soMVLCfQvWYerrvV8LTmr-TRQCEw/w140-h105-p/tv9.png" tvg-name="TV9"  group-title="MALAYSIA",TV9
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-_5GH4tKEVM4/V9ajsFiViuI/AAAAAAAAE-U/G-UCZPD4soMVLCfQvWYerrvV8LTmr-TRQCEw/w140-h105-p/tv9.png" tvg-name="TV9"  group-title="MALAYSIA",TV9 [COLOR red]-Offline-[/COLOR]
 http://rtm-live.glueapi.io/smil:rtmch003.smil/playlist.m3u8
 
-#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-zCcaOkQwVyg/V9lcRafZEUI/AAAAAAAAFCQ/uVkRrNV0dsMbWfowGxcUKZvMQ2wUzJw3wCLcB/w140-h73-p/astro_arena.png" tvg-name="ASTRO ARENA"  group-title="MALAYSIA",ASTRO ARENA
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-zCcaOkQwVyg/V9lcRafZEUI/AAAAAAAAFCQ/uVkRrNV0dsMbWfowGxcUKZvMQ2wUzJw3wCLcB/w140-h73-p/astro_arena.png" tvg-name="ASTRO ARENA"  group-title="MALAYSIA",ASTRO ARENA [COLOR red]-Offline-[/COLOR]
 http://iphone-streaming.ustream.tv/uhls/22724120/streams/live/iphone/playlist.m3u8
 
 #EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-pxXNmT41VoY/V9bJTh_XpyI/AAAAAAAAE-w/hPpNTX-Sk3MtQ9OLdKu_8esJjnOjXCJ9wCEw/w140-h105-p/astro_awani.png" tvg-name="ASTRO AWANI"  group-title="MALAYSIA",ASTRO AWANI
@@ -87,7 +87,7 @@ http://5.9.118.115:8000/live/harry/Harry/677.ts
 #EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-AIV11PA1dLA/V9pCmnF1r3I/AAAAAAAAFDE/e8GpABuofaE_ODCzqVV1Ru2rSK1B-Iu_wCLcB/w140-h105-p/btsport1.jpg" tvg-name="BTSPORT 1"  group-title="SPORT",BTSPORT 1
 http://5.9.118.115:8000/live/harry/Harry/519.ts
 
-#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-BAa394dV5V8/V9pCmqzFW0I/AAAAAAAAFDI/jTWLvatBTBENXtTGV4qp-42kYFNMbeezACLcB/w140-h105-p/btsport2.jpg" tvg-name="BTSPORT 2"  group-title="SPORT",BTSPORT 2
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-BAa394dV5V8/V9pCmqzFW0I/AAAAAAAAFDI/jTWLvatBTBENXtTGV4qp-42kYFNMbeezACLcB/w140-h105-p/btsport2.jpg" tvg-name="BTSPORT 2"  group-title="SPORT",BTSPORT 2 [COLOR red]-Offline-[/COLOR]
 http://5.9.118.115:8000/live/harry/Harry/
 
 #EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-MVUh7E--D_w/V9oshkbyhlI/AAAAAAAAFC0/c1BJZ3jNQm81sSVlyaXf5lWUgl6vfdmOgCLcB/w140-h105-p/eurosport.png" tvg-name="EUROSPORT"  group-title="SPORT",EUROSPORT
