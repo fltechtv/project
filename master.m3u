@@ -90,9 +90,6 @@ http://51.255.70.112:8000/live/pg/pg/1740.ts
 #EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-jlKeoa1dM2M/V9wciRhDRSI/AAAAAAAAFFM/jdtOqemnWcQlH2sRUdViIyhGNp1P5RaiACLcB/w140-h105-p/astro-supersport-3.jpg" tvg-name="ASTRO SUPERSPORT 3"  group-title="SPORT",ASTRO SUPERSPORT 3
 http://51.255.70.112:8000/live/pg/pg/1741.ts
 
-#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-oNPTB9q2atM/V9wcizD8GOI/AAAAAAAAFFU/ZrHjbbPehsAiw-Ac1-S3yr4cbJfgKeOGQCLcB/w140-h105-p/astro_supersport_4.png" tvg-name="ASTRO SUPERSPORT 4"  group-title="SPORT",ASTRO SUPERSPORT 4
-http://94.26.57.57:4022/udp/239.100.10.16:5000
-
 #EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-J3MXK9G11aU/V9pWlNABTFI/AAAAAAAAFEQ/9Bd4lo_j0-svqDAdq4wZMJK5Av7vCA2DACLcB/w140-h105-p/mutv.jpg" tvg-name="MU TV"  group-title="SPORT",MU TV
 http://5.9.118.115:8000/live/harry/Harry/677.ts
 
@@ -137,6 +134,18 @@ http://5.9.118.115:8000/live/harry/Harry/705.ts
 
 #EXTINF:7, group-title="OTHERS",- [COLOR yellow]OTHERS CHANNEL[/COLOR] -
 https://www.facebook.com/fltechtv/
+
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-8FMlfzPckTo/V9y4Mu-RzDI/AAAAAAAAFGo/stWztrktM-w3FMvBJOT1UnEvLuhEsKhJgCLcB/w140-h105-p/arirang_logo%2B%25281%2529.png" tvg-name="ARIRANG TV"  group-title="OTHERS",ARIRANG TV
+http://iphone-streaming.ustream.tv/uhls/22690676/streams/live/iphone/playlist.m3u8
+
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-Uq3UTTkshGc/V9y2wKUQL1I/AAAAAAAAFGc/7xLdh2yBkeMs0YB6qMdNPzDDBoiiiEQ6ACLcB/w140-h105-p/rtlive.png" tvg-name="RT LIVE"  group-title="OTHERS",RT LIVE
+http://89.28.21.19/rust.m3u8
+
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-_A-oUW5ZZMo/V9yrSki60qI/AAAAAAAAFF8/1BWxYmryWEk1s_UuSlZlmfY5IrXTw5nvgCLcB/w140-h105-p/kbsworld.png" tvg-name="KBS WORLD"  group-title="OTHERS",KBS WORLD
+rtmp://118.97.183.196/jhos//kbs
+
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-J2qhWtxJxP4/V9ypkUitlxI/AAAAAAAAFF0/5fdL7oiAn8QgNuk4vvxIi4-qY8dXMNAOQCLcB/w140-h105-p/dwtv.png" tvg-name="DW TV"  group-title="OTHERS",DW TV
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8?ttp://playback01.aotg-video.astro.com.my/AOTGHLS/master_AWANI.m3u8
 
 #EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-C2-p1lm6HMs/V9pbqF4mDVI/AAAAAAAAFEo/I_hFsdZ-bLgd7t0IqmQqX6-nWEjpLlVgQCLcB/w140-h105-p/nasatv.png" tvg-name="NASA TV"  group-title="OTHERS",NASA TV
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
