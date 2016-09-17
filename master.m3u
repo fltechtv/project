@@ -78,7 +78,7 @@ http://livestreaming-a.production.liputan6.static6.com/i/globaltv_1@137568/index
 #EXTINF:7, group-title="SPORT",- [COLOR yellow]SPORT CHANNEL[/COLOR] -
 https://www.facebook.com/fltechtv/
 
-#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-zCcaOkQwVyg/V9lcRafZEUI/AAAAAAAAFCQ/uVkRrNV0dsMbWfowGxcUKZvMQ2wUzJw3wCLcB/w140-h73-p/astro_arena.png" tvg-name="ASTRO ARENA"  group-title="SPORT",ASTRO ARENA [COLOR red]-Offline-[/COLOR]
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-zCcaOkQwVyg/V9lcRafZEUI/AAAAAAAAFCQ/uVkRrNV0dsMbWfowGxcUKZvMQ2wUzJw3wCLcB/w140-h73-p/astro_arena.png" tvg-name="ASTRO ARENA"  group-title="SPORT",ASTRO ARENA
 http://iphone-streaming.ustream.tv/uhls/22724120/streams/live/iphone/playlist.m3u8
 
 #EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-EYkBkdx23v4/V9wciG-dCvI/AAAAAAAAFFI/ticl7yKwRVg51TH-wPEEGXjrIQgn8MdlwCLcB/w140-h105-p/astro-supersport.jpg" tvg-name="ASTRO SUPERSPORT 1"  group-title="SPORT",ASTRO SUPERSPORT 1
@@ -91,7 +91,7 @@ http://51.255.70.112:8000/live/pg/pg/1740.ts
 http://51.255.70.112:8000/live/pg/pg/1741.ts
 
 #EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-oNPTB9q2atM/V9wcizD8GOI/AAAAAAAAFFU/ZrHjbbPehsAiw-Ac1-S3yr4cbJfgKeOGQCLcB/w140-h105-p/astro_supersport_4.png" tvg-name="ASTRO SUPERSPORT 4"  group-title="SPORT",ASTRO SUPERSPORT 4
-http://51.255.70.112:8000/live/pg/pg/1893.ts
+http://94.26.57.57:4022/udp/239.100.10.16:5000
 
 #EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-J3MXK9G11aU/V9pWlNABTFI/AAAAAAAAFEQ/9Bd4lo_j0-svqDAdq4wZMJK5Av7vCA2DACLcB/w140-h105-p/mutv.jpg" tvg-name="MU TV"  group-title="SPORT",MU TV
 http://5.9.118.115:8000/live/harry/Harry/677.ts
