@@ -3,6 +3,9 @@
 #EXTINF:7, group-title="MALAYSIA",- [COLOR yellow]MALAYSIA CHANNEL[/COLOR] -            (Last Updated on 16/09/2016) by FLTechTV
 https://www.facebook.com/fltechtv/
 
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-PXq8bfnFUWI/V-CCPIr8DpI/AAAAAAAAFHM/8HOa64VxOVoOuYLSbbXRbEM3jTR_hrxcgCLcB/w140-h61-p/fltechtv.png" tvg-name="FLTECHTV"  group-title="MALAYSIA",FLTECHTV
+http://iphone-streaming.ustream.tv/uhls/22724120/streams/live/iphone/playlist.m3u8
+
 #EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-7ZY_-V0QrQg/V9aXrehpZmI/AAAAAAAAE9c/ksWuQqXli8A7jfBqLpSRp5br9vXvreZ1ACEw/w140-h105-p/tv1.png" tvg-name="TV1"  group-title="MALAYSIA",TV1 [COLOR red]-Offline-[/COLOR]
 http://rtm-live.glueapi.io/smil:rtmch001.smil/playlist.m3u8
 
@@ -78,8 +81,8 @@ http://livestreaming-a.production.liputan6.static6.com/i/globaltv_1@137568/index
 #EXTINF:7, group-title="SPORT",- [COLOR yellow]SPORT CHANNEL[/COLOR] -
 https://www.facebook.com/fltechtv/
 
-#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-zCcaOkQwVyg/V9lcRafZEUI/AAAAAAAAFCQ/uVkRrNV0dsMbWfowGxcUKZvMQ2wUzJw3wCLcB/w140-h73-p/astro_arena.png" tvg-name="ASTRO ARENA"  group-title="SPORT",ASTRO ARENA
-http://iphone-streaming.ustream.tv/uhls/22724120/streams/live/iphone/playlist.m3u8
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-zCcaOkQwVyg/V9lcRafZEUI/AAAAAAAAFCQ/uVkRrNV0dsMbWfowGxcUKZvMQ2wUzJw3wCLcB/w140-h73-p/astro_arena.png" tvg-name="ASTRO ARENA"  group-title="MALAYSIA",ASTRO ARENA [COLOR red]-Offline-[/COLOR]
+https://www.facebook.com/fltechtv/
 
 #EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-EYkBkdx23v4/V9wciG-dCvI/AAAAAAAAFFI/ticl7yKwRVg51TH-wPEEGXjrIQgn8MdlwCLcB/w140-h105-p/astro-supersport.jpg" tvg-name="ASTRO SUPERSPORT 1"  group-title="SPORT",ASTRO SUPERSPORT 1
 http://51.255.70.112:8000/live/pg/pg/1739.ts
