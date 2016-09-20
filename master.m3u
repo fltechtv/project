@@ -3,9 +3,6 @@
 #EXTINF:7, group-title="MALAYSIA",- [COLOR yellow]MALAYSIA CHANNEL[/COLOR] -            (Last Updated on 16/09/2016) by FLTechTV
 https://www.facebook.com/fltechtv/
 
-#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-PXq8bfnFUWI/V-CCPIr8DpI/AAAAAAAAFHM/8HOa64VxOVoOuYLSbbXRbEM3jTR_hrxcgCLcB/w140-h61-p/fltechtv.png" tvg-name="FLTECHTV"  group-title="MALAYSIA",FLTECHTV
-http://iphone-streaming.ustream.tv/uhls/22724120/streams/live/iphone/playlist.m3u8
-
 #EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-7ZY_-V0QrQg/V9aXrehpZmI/AAAAAAAAE9c/ksWuQqXli8A7jfBqLpSRp5br9vXvreZ1ACEw/w140-h105-p/tv1.png" tvg-name="TV1"  group-title="MALAYSIA",TV1 [COLOR red]-Offline-[/COLOR]
 http://rtm-live.glueapi.io/smil:rtmch001.smil/playlist.m3u8
 
@@ -23,6 +20,9 @@ http://rtm-live.glueapi.io/smil:rtmch003.smil/playlist.m3u8
 
 #EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-_5GH4tKEVM4/V9ajsFiViuI/AAAAAAAAE-U/G-UCZPD4soMVLCfQvWYerrvV8LTmr-TRQCEw/w140-h105-p/tv9.png" tvg-name="TV9"  group-title="MALAYSIA",TV9 [COLOR red]-Offline-[/COLOR]
 http://rtm-live.glueapi.io/smil:rtmch003.smil/playlist.m3u8
+
+#EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-PXq8bfnFUWI/V-CCPIr8DpI/AAAAAAAAFHM/8HOa64VxOVoOuYLSbbXRbEM3jTR_hrxcgCLcB/w140-h61-p/fltechtv.png" tvg-name="FLTECHTV"  group-title="MALAYSIA",FLTECHTV
+http://iphone-streaming.ustream.tv/uhls/22724120/streams/live/iphone/playlist.m3u8
 
 #EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-pxXNmT41VoY/V9bJTh_XpyI/AAAAAAAAE-w/hPpNTX-Sk3MtQ9OLdKu_8esJjnOjXCJ9wCEw/w140-h105-p/astro_awani.png" tvg-name="ASTRO AWANI"  group-title="MALAYSIA",ASTRO AWANI
 http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer5.m3u8
