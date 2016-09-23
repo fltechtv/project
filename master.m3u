@@ -106,7 +106,7 @@ http://51.255.70.112:8000/live/pg/pg/720.ts
 http://5.9.118.115:8000/live/harry/Harry/519.ts
 
 #EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-BAa394dV5V8/V9pCmqzFW0I/AAAAAAAAFDI/jTWLvatBTBENXtTGV4qp-42kYFNMbeezACLcB/w140-h105-p/btsport2.jpg" tvg-name="BTSPORT 2"  group-title="SPORT",BTSPORT 2
-http://51.255.70.112:8000/live/pg/pg/1981.ts
+rtmpe://109.202.103.22:1935/livedge playpath=mamahdbtsport2 swfUrl=http://player.hdcast.org/_.swf live=1 flashver=WIN/16,0,0,257" timeout=15 token=SECURET0KEN#yw%.?()@W! live=true swfVfy=1 pageUrl=http://www.hdcast.org/|referer=mamahd.com
 
 #EXTINF:7, tvg-logo="https://lh3.googleusercontent.com/-MVUh7E--D_w/V9oshkbyhlI/AAAAAAAAFC0/c1BJZ3jNQm81sSVlyaXf5lWUgl6vfdmOgCLcB/w140-h105-p/eurosport.png" tvg-name="EUROSPORT"  group-title="SPORT",EUROSPORT
 http://5.9.118.115:8000/live/harry/Harry/1218.ts
