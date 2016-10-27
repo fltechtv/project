@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:13, group-title="MALAYSIA",- [COLOR yellow]MALAYSIA CHANNEL[/COLOR] -            (Last Updated on 27 October 2016) by FLTechTV
+#EXTINF:13, group-title="ALL",- [COLOR yellow]UPDATE IN PROGRESS[/COLOR] -             Last Updated on 27 October 2016 12:05PM
 https://www.facebook.com/fltechtv/
 
 #EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-7ZY_-V0QrQg/V9aXrehpZmI/AAAAAAAAE9c/ksWuQqXli8A7jfBqLpSRp5br9vXvreZ1ACEw/w140-h105-p/tv1.png" tvg-name="TV1"  group-title="MALAYSIA",TV1 [COLOR red]-Offline-[/COLOR]
@@ -36,17 +36,14 @@ http://ss2.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8
 #EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-zXIQJd6XMX8/V9bsxHoP6qI/AAAAAAAAFBU/tl56Z0Jv408J6q-KeNk_LEFqTVW6kRZyACEw/w140-h105-p/goshop.png" tvg-name="ASTRO GO SHOP"  group-title="MALAYSIA",ASTRO GO SHOP
 http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AGSS.m3u8
 
-#EXTINF:13, group-title="INDONESIA",- [COLOR yellow]INDONESIA CHANNEL[/COLOR] -
-https://www.facebook.com/fltechtv/
-
 #EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-Vv3wHFJJVm8/V9bT06cXuZI/AAAAAAAAFAM/uzsNctpQ7SINqS9HKW9QX59eTjsoyQIGwCEw/w140-h105-p/trans7.png" tvg-name="TRANS 7"  group-title="INDONESIA",TRANS 7
-http://us1.dokitv.com/re/ch/trans72.m3u8?
+http://128.199.110.53/live/tv1/index.m3u8
 
 #EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-FMJsNcgINYA/V9bUmckAEVI/AAAAAAAAFAM/76hWunyT6FQx2hGqR384my77VTnRp4QYACEw/w140-h105-p/transtv.png" tvg-name="TRANS TV"  group-title="INDONESIA",TRANS TV
-http://us1.dokitv.com/re/ch/transtv2.m3u8
+http://188.166.209.95/live/tv1/index.m3u8
 
 #EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-WyMVeGn8X-M/V9bQH9vNIPI/AAAAAAAAFAM/bcni6b_sm0wvh7prhk3TUcL5zHlInxzXQCEw/w140-h105-p/rcti.png" tvg-name="RCTI"  group-title="INDONESIA",RCTI
-http://live.dokitv.com/hls/channel2000042-512.m3u8
+
 
 #EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-DcFfGUsmZTM/V9bXvIHpNTI/AAAAAAAAFAM/teVhUEHaByEs2c63TjM13KL-QprZWRQqQCEw/w140-h105-p/mnctv.png" tvg-name="MNCTV"  group-title="INDONESIA",MNCTV
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000022/index.m3u8
@@ -58,31 +55,29 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000029/index.m3u8
 
 #EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-sj1xOkldpSY/V9bbfDtOOAI/AAAAAAAAFAM/yE1ISWRKaiMQdEXfqMNwi_cVv3811UHTQCEw/w140-h105-p/kompastv.png" tvg-name="KOMPAS TV"  group-title="INDONESIA",KOMPAS TV
-http://202.137.11.52/jakarta/offair.sdp/playlist.m3u8
+
 
 #EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-Kz95mzxij80/V9bfrc2jCaI/AAAAAAAAFBU/WP2a38eripkFJQS44SIRU1TsdsxvxkJsQCEw/w140-h105-p/antv.png" tvg-name="ANTV"  group-title="INDONESIA",ANTV
-http://us1.dokitv.com/re/ch/antv2.m3u8
+
 
 #EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-5p6MhXEymYU/V9bifAq56cI/AAAAAAAAFBU/10ZVLQ13LWEihnx7MiVM_XZ6a2DP5wZAACEw/w140-h105-p/metrotv.png" tvg-name="METRO TV"  group-title="INDONESIA",METRO TV
-http://103.225.66.104:1935/live-edge/smil:metro.smil/chunklist_w1487147447_b200000_sleng.m3u8
+
 
 #EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-cpqLzKksUAY/V9bjNmbfhdI/AAAAAAAAFBU/KlmldWRyQaQOPBO0WxsgsPwpmd0y2jAAQCEw/w140-h105-p/netdot.png" tvg-name="NET."  group-title="INDONESIA",NET.
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=lYit3iaNKSI?
+
 
 #EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-qbjMOrynuv8/V9blUE-QFhI/AAAAAAAAFBU/gS8ueOG1DGMOeQzn6_l4tBzNEBr9svT6QCEw/w140-h105-p/tvone.png" tvg-name="TVONE"  group-title="INDONESIA",TVONE
-http://us1.dokitv.com/re/ch/tvone2.m3u8
+
 
 #EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-gaXxf8Ram1c/V9bt9Q_BEVI/AAAAAAAAFBU/IwlFPa1c9zQFqtkDtcnj-iorCt_VLqSfACEw/w140-h105-p/indosiar.png" tvg-name="INDOSIAR"  group-title="INDONESIA",INDOSIAR
-http://us1.dokitv.com/re/ch/indosiar2.m3u8
+
 
 #EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-5e2cHNi8dMY/V9bviB78yyI/AAAAAAAAFBU/vqVL2LDw6_QnPb7wre_na2ZfhIhpNZa9gCEw/w140-h105-p/globaltv.png" tvg-name="GLOBAL TV"  group-title="INDONESIA",GLOBAL TV
-http://live.dokitv.com/hls/channel2000041-512.m3u8
+
 
 #EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-zDwC91e8OhY/WBF0jefYqwI/AAAAAAAAFMQ/JEoHUuNspUkC5ftT7IOxD4CzdcpASJbrQCLcB/h120/SCTV.png" tvg-name="SCTV"  group-title="INDONESIA",SCTV
-http://us1.dokitv.com/re/ch/sctv2.m3u8
 
-#EXTINF:13, group-title="SPORT",- [COLOR yellow]SPORT CHANNEL[/COLOR] -
-https://www.facebook.com/fltechtv/
+
 
 #EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-zCcaOkQwVyg/V9lcRafZEUI/AAAAAAAAFCQ/uVkRrNV0dsMbWfowGxcUKZvMQ2wUzJw3wCLcB/w140-h73-p/astro_arena.png" tvg-name="ASTRO ARENA"  group-title="MALAYSIA",ASTRO ARENA [COLOR red]-Offline-[/COLOR]
 
@@ -120,8 +115,6 @@ https://www.facebook.com/fltechtv/
 #EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-XFZ3VR7wZcI/V9pEioUB2jI/AAAAAAAAFDU/pjwuvktqcIkZH1PrFF2UO1g8U0ckGlV6gCLcB/w140-h105-p/skysport2.png" tvg-name="UKSKYSPORT 2"  group-title="SPORT",UKSKYSPORT 2
 
 
-#EXTINF:13, group-title="KIDS",- [COLOR yellow]KIDS CHANNEL[/COLOR] -
-https://www.facebook.com/fltechtv/
 
 #EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-NIqrF9vTiZA/V9tVrgm4PJI/AAAAAAAAFE4/sXQ8VDHROaYYLsXwxRUy0iSrbc1dVwomwCLcB/w140-h105-p/aljazeerakids.jpg" tvg-name="ALJAZEERA KIDS"  group-title="OTHERS",ALJAZEERA KIDS
 
@@ -138,8 +131,6 @@ https://www.facebook.com/fltechtv/
 #EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-PRcL82j0vmo/V9pQ34buhlI/AAAAAAAAFEE/9L5lV0NRsQoUpwGQ0Wo713T06F8T82eMACLcB/w140-h105-p/disneyxd.png" tvg-name="DISNEY XD"  group-title="KIDS",DISNEY XD
 
 
-#EXTINF:13, group-title="OTHERS",- [COLOR yellow]OTHERS CHANNEL[/COLOR] -
-https://www.facebook.com/fltechtv/
 
 #EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-8FMlfzPckTo/V9y4Mu-RzDI/AAAAAAAAFGo/stWztrktM-w3FMvBJOT1UnEvLuhEsKhJgCLcB/w140-h105-p/arirang_logo%2B%25281%2529.png" tvg-name="ARIRANG TV"  group-title="OTHERS",ARIRANG TV
 http://iphone-streaming.ustream.tv/uhls/22690676/streams/live/iphone/playlist.m3u8
