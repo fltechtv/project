@@ -3,8 +3,11 @@
 #EXTINF:13, group-title="ALL",- [COLOR orange]FLTECHTV[/COLOR] - L/U:27/10/2016
 https://www.facebook.com/fltechtv/
 
-#EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-pxXNmT41VoY/V9bJTh_XpyI/AAAAAAAAE-w/hPpNTX-Sk3MtQ9OLdKu_8esJjnOjXCJ9wCEw/w140-h105-p/astro_awani.png" tvg-name="ASTRO AWANI"  group-title="MALAYSIA",ASTRO AWANI
+#EXTINF:13, tvg-logo="https://lh5.ggpht.com/6nGzerPr_kSsQmmNyltRQf4WsbP7qfuTekIIb1UG8OFL3oDZDVOXoZYhT2Xs4koAsJw=w300" tvg-name="ASTRO AWANI"  group-title="MALAYSIA",ASTRO AWANI
 http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer5.m3u8
+
+#EXTINF:13, tvg-logo="http://www.tugentelatina.com/m/photos/get_image/file/ef0276e47415c4c139b2cf08e317c87f.jpg" tvg-name="BLOOMBERGTV"  group-title="OTHERS",BLOOMBERGTV
+http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M440.m3u8
 
 #EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-GVfGPJYgyT0/V9bO2aJq-4I/AAAAAAAAFAM/_sGZXfCP44wDDZc8Fnk0mzc40Z2iA6drwCEw/w140-h105-p/bernama.png" tvg-name="BERNAMA TV"  group-title="MALAYSIA",BERNAMA TV
 http://ss2.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8
@@ -21,17 +24,26 @@ http://128.199.110.53/live/tv1/index.m3u8
 #EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-FMJsNcgINYA/V9bUmckAEVI/AAAAAAAAFAM/76hWunyT6FQx2hGqR384my77VTnRp4QYACEw/w140-h105-p/transtv.png" tvg-name="TRANS TV"  group-title="INDONESIA",TRANS TV
 http://188.166.209.95/live/tv1/index.m3u8
 
+#EXTINF:13, tvg-logo="http://images-mediawiki-sites.thefullwiki.org/08/4/1/6/38174284232433712.png" tvg-name="INDOSIAR"  group-title="INDONESIA",INDOSIAR
+http://128.199.142.69/live/tv2/index.m3u8
+
+#EXTINF:13, tvg-logo="http://sakeena.net/wp-content/uploads/sctv-logo.jpg" tvg-name="SCTV"  group-title="INDONESIA",SCTV
+http://128.199.187.12/live/tv1/index.m3u8
+
+#EXTINF:13, tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Antv_logo(2009).png" tvg-name="ANTV"  group-title="INDONESIA",ANTV
+http://188.166.209.95/live/tv2/index.m3u8
+
 #EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-WyMVeGn8X-M/V9bQH9vNIPI/AAAAAAAAFAM/bcni6b_sm0wvh7prhk3TUcL5zHlInxzXQCEw/w140-h105-p/rcti.png" tvg-name="RCTI"  group-title="INDONESIA",RCTI
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/index512.m3u8
 
 #EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-DcFfGUsmZTM/V9bXvIHpNTI/AAAAAAAAFAM/teVhUEHaByEs2c63TjM13KL-QprZWRQqQCEw/w140-h105-p/mnctv.png" tvg-name="MNCTV"  group-title="INDONESIA",MNCTV
-http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000022/index.m3u8
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000022/index512.m3u8
 
 #EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-YsWyOL6L6-4/V9bYZLo8L2I/AAAAAAAAFAM/Gh4Np6EfgcY4zUAUEqT5QOQ1UMD8WgxzwCEw/w140-h105-p/tvri.png" tvg-name="TVRI"  group-title="INDONESIA",TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
 
 #EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-PyziaOI3V3s/V9bbFntRDQI/AAAAAAAAFAM/fwXOxzHcdpgit4q_6qI15FronFV-MFg4wCEw/w140-h105-p/inewstv.png" tvg-name="INEWSTV"  group-title="INDONESIA",INEWSTV
-http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000029/index256.m3u8
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000029/index512.m3u8
 
 #EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-5e2cHNi8dMY/V9bviB78yyI/AAAAAAAAFBU/vqVL2LDw6_QnPb7wre_na2ZfhIhpNZa9gCEw/w140-h105-p/globaltv.png" tvg-name="GLOBAL TV"  group-title="INDONESIA",GLOBAL TV
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000041/index512.m3u8
@@ -60,7 +72,7 @@ http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appl
 #EXTINF:13, tvg-logo="http://www.tv14.net/wp-content/uploads/2010/09/CCTV-7.jpg" tvg-name="CCTV7"  group-title="OTHERS",CCTV7
 http://125.88.92.166:30001/PLTV/88888956/224/3221227695/1.m3u8
 
-#EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-yzG7alJ_Xh4/V9pZH08aWQI/AAAAAAAAFEY/A5-Y_C-YFoAHcaCwklBpn0fJ3EtOZY_2QCLcB/w140-h105-p/cctv9.png" tvg-name="CCTV9"  group-title="OTHERS",CCTV9
+#EXTINF:13, tvg-logo="http://hugetv.org/wp-content/uploads/2016/01/CCTV-9-Documentary.jpg" tvg-name="CCTV9"  group-title="OTHERS",CCTV9
 http://125.88.92.166:30001/PLTV/88888956/224/3221227669/1.m3u8
 
 #EXTINF:13, tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cctv12.jpg" tvg-name="CCTV12"  group-title="OTHERS",CCTV12
@@ -75,10 +87,10 @@ http://125.88.92.166:30001/PLTV/88888956/224/3221227675/1.m3u8
 #EXTINF:13, tvg-logo="http://cdn.wtvpc.com/wp-content/uploads/2016/02/CCTV-15Musiclogo_447-150x120.png" tvg-name="CCTV15"  group-title="OTHERS",CCTV15
 http://125.88.92.166:30001/PLTV/88888956/224/3221227727/1.m3u8
 
-#EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-GtVBMQRYxf4/V9fJb6F7kJI/AAAAAAAAFB4/uPkmEoUe3zYoC7IRIiJADQGbko33F9nFgCLcB/w140-h105-p/meccatv1.jpg" tvg-name="MECCA TV"  group-title="OTHERS",MECCA TV
+#EXTINF:13, tvg-logo="http://www.mondialtv.fr/wp-content/uploads/logo-makkah-tv.png" tvg-name="MECCA TV"  group-title="OTHERS",MECCA TV
 http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel6/_definst_/live/stream1.m3u8
 
-#EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-X8On9IGx-VQ/V9fKiOeprrI/AAAAAAAAFB8/18Bp_IH4FYk6Qz4T5kHkm5X-TcuNCje5ACLcB/w140-h105-p/madinahtv.jpg" tvg-name="MADINAH TV"  group-title="OTHERS",MADINAH TV
+#EXTINF:13, tvg-logo="http://bvi-islamic-tv.weebly.com/uploads/3/2/1/0/3210159/289020.jpg" tvg-name="MADINAH TV"  group-title="OTHERS",MADINAH TV
 http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel7/_definst_/live/stream2.m3u8
 
 #EXTINF:13, tvg-logo="http://www.tugentelatina.com/m/photos/get_image/file/ef0276e47415c4c139b2cf08e317c87f.jpg" tvg-name="RAXA TV"  group-title="OTHERS",RAXA TV
