@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:13, group-title="ALL",- [COLOR orange]FLTECHTV[/COLOR] -             Last Updated on 27 October 2016 12:41PM
+#EXTINF:13, group-title="ALL",- [COLOR orange]FLTECHTV[/COLOR] - L/U:27/10/2016
 https://www.facebook.com/fltechtv/
 
 #EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-pxXNmT41VoY/V9bJTh_XpyI/AAAAAAAAE-w/hPpNTX-Sk3MtQ9OLdKu_8esJjnOjXCJ9wCEw/w140-h105-p/astro_awani.png" tvg-name="ASTRO AWANI"  group-title="MALAYSIA",ASTRO AWANI
@@ -12,7 +12,7 @@ http://ss2.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8
 #EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-zXIQJd6XMX8/V9bsxHoP6qI/AAAAAAAAFBU/tl56Z0Jv408J6q-KeNk_LEFqTVW6kRZyACEw/w140-h105-p/goshop.png" tvg-name="ASTRO GO SHOP"  group-title="MALAYSIA",ASTRO GO SHOP
 http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AGSS.m3u8
 
-#EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-PXq8bfnFUWI/V-CCPIr8DpI/AAAAAAAAFHM/8HOa64VxOVoOuYLSbbXRbEM3jTR_hrxcgCLcB/w140-h61-p/fltechtv.png" tvg-name="FLTECHTV"  group-title="MALAYSIA",FLTECHTV
+#EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-gzQPSSU_X8Y/V9beMPlpMzI/AAAAAAAAFBU/hkDDWQWvQJc4skzpbl9KaUoJ3VMGMW4kwCEw/w140-h140-p/fltechsmalllogo.png" tvg-name="FLTECHTV"  group-title="MALAYSIA",FLTECHTV
 http://iphone-streaming.ustream.tv/uhls/22724120/streams/live/iphone/playlist.m3u8
 
 #EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-Vv3wHFJJVm8/V9bT06cXuZI/AAAAAAAAFAM/uzsNctpQ7SINqS9HKW9QX59eTjsoyQIGwCEw/w140-h105-p/trans7.png" tvg-name="TRANS 7"  group-title="INDONESIA",TRANS 7
