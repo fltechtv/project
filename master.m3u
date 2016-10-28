@@ -1,18 +1,18 @@
 #EXTM3U
 
-#EXTINF:13, group-title="ALL",- [COLOR orange]FLTECHTV[/COLOR] - L/U:27/10/2016
+#EXTINF:13, group-title="ALL",- [COLOR orange]FLTECHTV[/COLOR] - L/U:28/10/2016
 https://www.facebook.com/fltechtv/
 
-#EXTINF:13, tvg-logo="https://lh5.ggpht.com/6nGzerPr_kSsQmmNyltRQf4WsbP7qfuTekIIb1UG8OFL3oDZDVOXoZYhT2Xs4koAsJw=w300" tvg-name="ASTRO AWANI"  group-title="MALAYSIA",ASTRO AWANI
+#EXTINF:13, tvg-logo="http://img.astroawani.com/2013-04/61365010299_295x200.jpg" tvg-name="ASTRO AWANI"  group-title="MALAYSIA",ASTRO AWANI
 http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer5.m3u8
-
-#EXTINF:13, tvg-logo="http://www.tugentelatina.com/m/photos/get_image/file/ef0276e47415c4c139b2cf08e317c87f.jpg" tvg-name="BLOOMBERGTV"  group-title="OTHERS",BLOOMBERGTV
-http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M440.m3u8
 
 #EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-GVfGPJYgyT0/V9bO2aJq-4I/AAAAAAAAFAM/_sGZXfCP44wDDZc8Fnk0mzc40Z2iA6drwCEw/w140-h105-p/bernama.png" tvg-name="BERNAMA TV"  group-title="MALAYSIA",BERNAMA TV
 http://ss2.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8
 
-#EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-zXIQJd6XMX8/V9bsxHoP6qI/AAAAAAAAFBU/tl56Z0Jv408J6q-KeNk_LEFqTVW6kRZyACEw/w140-h105-p/goshop.png" tvg-name="ASTRO GO SHOP"  group-title="MALAYSIA",ASTRO GO SHOP
+#EXTINF:13, tvg-logo="http://www.freeetv.com/images/01_logo/bloomberg_tv.jpg" tvg-name="BLOOMBERGTV"  group-title="OTHERS",BLOOMBERGTV
+http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M440.m3u8
+
+#EXTINF:13, tvg-logo="http://www.marketingmagazine.com.my/images/stories/2014/goshop_logo.jpg" tvg-name="ASTRO GO SHOP"  group-title="MALAYSIA",ASTRO GO SHOP
 http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AGSS.m3u8
 
 #EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-gzQPSSU_X8Y/V9beMPlpMzI/AAAAAAAAFBU/hkDDWQWvQJc4skzpbl9KaUoJ3VMGMW4kwCEw/w140-h140-p/fltechsmalllogo.png" tvg-name="FLTECHTV"  group-title="MALAYSIA",FLTECHTV
@@ -95,3 +95,9 @@ http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel7/_definst_/live/str
 
 #EXTINF:13, tvg-logo="http://www.tugentelatina.com/m/photos/get_image/file/ef0276e47415c4c139b2cf08e317c87f.jpg" tvg-name="RAXA TV"  group-title="OTHERS",RAXA TV
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist6.m3u8
+
+#EXTINF:13, group-title="TESTING",- [COLOR red]DEVELOPMENT TEST[/COLOR] -
+https://www.facebook.com/fltechtv/
+
+#EXTINF:13, tvg-logo="http://static.cdn.bg/dvr/cflow/no-signal.png" tvg-name="TESTING TV"  group-title="OTHERS",TESTING TV
+plugin://plugin.video.youtube/?action=play_video&videoid=aUfYsaKtfuk
