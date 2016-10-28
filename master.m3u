@@ -51,6 +51,9 @@ http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000041/index512.m3u8
 #EXTINF:13, tvg-logo="https://4.bp.blogspot.com/-_qFCklt6wso/ULrqopz6ZKI/AAAAAAAAAWw/0YM6R5D4Oa0/s1600/TV+Edukasi.jpg" tvg-name="TV EDUKASI"  group-title="INDONESIA",TV EDUKASI
 http://118.98.221.131/live/smil:tvedukasi.smil/playlist.m3u8
 
+#EXTINF:13, tvg-logo="http://www.anneahira.com/images/metrotv.jpg" tvg-name="METRO TV"  group-title="INDONESIA",METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w345283553_b216000_sleng.m3u8
+
 #EXTINF:13, tvg-logo="http://tv.7emirate.com/wp-content/uploads/2015/04/France24.png" tvg-name="FRANCE24"  group-title="OTHERS",FRANCE 24
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 
@@ -95,9 +98,3 @@ http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel7/_definst_/live/str
 
 #EXTINF:13, tvg-logo="http://www.tugentelatina.com/m/photos/get_image/file/ef0276e47415c4c139b2cf08e317c87f.jpg" tvg-name="RAXA TV"  group-title="OTHERS",RAXA TV
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist6.m3u8
-
-#EXTINF:13, group-title="TESTING",- [COLOR red]DEVELOPMENT TEST[/COLOR] -
-https://www.facebook.com/fltechtv/
-
-#EXTINF:13, tvg-logo="http://static.cdn.bg/dvr/cflow/no-signal.png" tvg-name="TESTING TV"  group-title="OTHERS",TESTING TV
-plugin://plugin.video.youtube/?action=play_video&videoid=aUfYsaKtfuk
