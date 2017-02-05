@@ -22,7 +22,7 @@ http://128.199.110.53/live/tv1/index.m3u8
 http://208.85.1.126/re/ch/transtv2.m3u8
 
 #EXTINF:13, tvg-logo="http://images-mediawiki-sites.thefullwiki.org/08/4/1/6/38174284232433712.png" tvg-name="INDOSIAR"  group-title="INDONESIA",INDOSIAR
-http://us.toptv.id/re/ch/indosiar2.m3u8
+http://a-minol1-9918c9e6c6-falestin-gaza-aleppo.reupvideo.com/stream/46922a0880a8f11f8f69cbb52b1396be/08419be897405321542838d77f855226/f7664060cc52bc6f3d620bcedc94a4b6/index.m3u8
 
 #EXTINF:13, tvg-logo="http://sakeena.net/wp-content/uploads/sctv-logo.jpg" tvg-name="SCTV"  group-title="INDONESIA",SCTV
 http://128.199.187.12/live/tv1/index.m3u8
@@ -96,7 +96,7 @@ http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel7/_definst_/live/str
 #EXTINF:13, tvg-logo="http://www.tugentelatina.com/m/photos/get_image/file/ef0276e47415c4c139b2cf08e317c87f.jpg" tvg-name="RAXA TV"  group-title="OTHERS",RAXA TV
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist6.m3u8
 
-#EXTINF:13, group-title="ALL",- [COLOR YELLOW]FLTECHFM[/COLOR] - L/U:05/02/2017
+#EXTINF:13, group-title="ALL",- [COLOR yellow]FLTECHFM[/COLOR] - L/U:05/02/2017
 https://www.facebook.com/fltechtv/
 
 #EXTINF:13, tvg-logo="http://tune.mx/media/radios/era-fm-ferxvauvg7.png.450x450_q85_upscale.png" tvg-name="ERA FM"  group-title="MALAYSIA",ERA FM
@@ -106,7 +106,7 @@ http://astro2.rastream.com/era?type=.flv
 http://astro2.rastream.com/sinar?type=.flv
 
 #EXTINF:13, tvg-logo="https://www.unifihypptv.com.my/wp-content/uploads/2016/09/hotfm-hd.jpg" tvg-name="HOT FM"  group-title="MALAYSIA",HOT FM
-http://2343.live.streamtheworld.com/HOTFMAAC
+http://mediaprima.rastream.com/mediaprima-hotfm?awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Amediaprima-hotfm&playerid=Hot%20FM_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE0Nzg2ODgyMTI4OTksImV4cCI6MTQ3ODc3NDYxMjg5OX0.lac1THJt0EpzLBG6frf7wUyE0J9bwI-xOsgcGm4TDlM&lotame_segments=%5B%22120997%22%2C%22133556%22%5D
 
 #EXTINF:13, tvg-logo="http://android-artworks.25pp.com/fs08/2016/06/07/1/1_e46e1675a212d5682d0d354e957de16c_con.png" tvg-name="HITZ FM"  group-title="MALAYSIA",HITZ FM
 http://astro1.rastream.com/hitz?type=.flv
