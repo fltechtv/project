@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:13, group-title="ALL",- [COLOR orange]FLTECHTV[/COLOR] - L/U:28/10/2016
+#EXTINF:13, group-title="ALL",- [COLOR orange]FLTECHTV[/COLOR] - L/U:05/02/2017
 https://www.facebook.com/fltechtv/
 
 #EXTINF:13, tvg-logo="http://img.astroawani.com/2013-04/61365010299_295x200.jpg" tvg-name="ASTRO AWANI"  group-title="MALAYSIA",ASTRO AWANI
@@ -15,17 +15,14 @@ http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M440.m3u8
 #EXTINF:13, tvg-logo="http://www.marketingmagazine.com.my/images/stories/2014/goshop_logo.jpg" tvg-name="ASTRO GO SHOP"  group-title="MALAYSIA",ASTRO GO SHOP
 http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AGSS.m3u8
 
-#EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-gzQPSSU_X8Y/V9beMPlpMzI/AAAAAAAAFBU/hkDDWQWvQJc4skzpbl9KaUoJ3VMGMW4kwCEw/w140-h140-p/fltechsmalllogo.png" tvg-name="FLTECHTV"  group-title="MALAYSIA",FLTECHTV
-http://iphone-streaming.ustream.tv/uhls/22724120/streams/live/iphone/playlist.m3u8
-
 #EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-Vv3wHFJJVm8/V9bT06cXuZI/AAAAAAAAFAM/uzsNctpQ7SINqS9HKW9QX59eTjsoyQIGwCEw/w140-h105-p/trans7.png" tvg-name="TRANS 7"  group-title="INDONESIA",TRANS 7
 http://128.199.110.53/live/tv1/index.m3u8
 
 #EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-FMJsNcgINYA/V9bUmckAEVI/AAAAAAAAFAM/76hWunyT6FQx2hGqR384my77VTnRp4QYACEw/w140-h105-p/transtv.png" tvg-name="TRANS TV"  group-title="INDONESIA",TRANS TV
-http://188.166.209.95/live/tv1/index.m3u8
+http://us1.dokitv.com/re/ch/transtv2.m3u8
 
 #EXTINF:13, tvg-logo="http://images-mediawiki-sites.thefullwiki.org/08/4/1/6/38174284232433712.png" tvg-name="INDOSIAR"  group-title="INDONESIA",INDOSIAR
-http://128.199.142.69/live/tv2/index.m3u8
+http://us.toptv.id/re/ch/indosiar2.m3u8
 
 #EXTINF:13, tvg-logo="http://sakeena.net/wp-content/uploads/sctv-logo.jpg" tvg-name="SCTV"  group-title="INDONESIA",SCTV
 http://128.199.187.12/live/tv1/index.m3u8
