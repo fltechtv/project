@@ -6,6 +6,9 @@ https://www.facebook.com/fltechtv/
 #EXTINF:13, tvg-logo="http://img.astroawani.com/2013-04/61365010299_295x200.jpg" tvg-name="ASTRO AWANI"  group-title="MALAYSIA",ASTRO AWANI
 http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer5.m3u8
 
+#EXTINF:13, tvg-logo="http://3.bp.blogspot.com/-Us2xcNr-l8U/VkMBY7mCrSI/AAAAAAAAA7A/RfgB6gIJ2Lo/s200/astro_ria.png" tvg-name="ASTRO RIA"  group-title="MALAYSIA",ASTRO RIA
+http://iphone-streaming.ustream.tv/uhls/22724120/streams/live/iphone/playlist.m3u8
+
 #EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-GVfGPJYgyT0/V9bO2aJq-4I/AAAAAAAAFAM/_sGZXfCP44wDDZc8Fnk0mzc40Z2iA6drwCEw/w140-h105-p/bernama.png" tvg-name="BERNAMA TV"  group-title="MALAYSIA",BERNAMA TV
 http://ss2.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8
 
