@@ -102,12 +102,6 @@ http://fms.cntv.lxdns.com/live/flv/channel97.flv
 #EXTINF:13, tvg-logo="https://image.ibb.co/hsLtyv/kasstv.jpg" tvg-name="KASSTV"  group-title="OTHERS",KASSTV
 http://iphone-streaming.ustream.tv/uhls/22189582/streams/live/iphone/playlist.m3u8
 
-#EXTINF:13, tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/1/8/5/3/18538169/18538169,192x192,r:2.jpg" tvg-name="SHARK WEEK"  group-title="OTHERS",SHARK WEEK
-http://iphone-streaming.ustream.tv/uhls/18538169/streams/live/iphone/playlist.m3u8
-
-#EXTINF:13, tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/2/2/9/6/22961120/22961120,192x192,r:2.jpg" tvg-name="GUATEMALA TV"  group-title="OTHERS",GUATEMALA TV
-http://iphone-streaming.ustream.tv/uhls/22961120/streams/live/iphone/playlist.m3u8
-
 #EXTINF:13, group-title="ALL",- [COLOR yellow]FLTECHFM[/COLOR] - L/U:08/02/2017
 https://www.facebook.com/fltechtv/
 
