@@ -120,5 +120,5 @@ http://astro2.rastream.com/mix?type=.flv
 #EXTINF:13, tvg-logo="http://2.bp.blogspot.com/-h9y9pvj0qPs/UcvaHgu02rI/AAAAAAAADoI/bX_G75K7nus/s1600/Logo+LiteFM.png" tvg-name="LITE FM"  group-title="MALAYSIA",LITE FM
 http://astro1.rastream.com/lite?type=.flv
 
-#EXTINF:13, group-title="ALL",- [COLOR red]FLTECHFM[/COLOR] - test channel
-http://212.250.46.44:8085/udp/239.100.0.129:3001
+#EXTINF:13, group-title="ALL",- [COLOR red]test channel[/COLOR]
+http://tvdreams.org:50100/live/MahmoudAppleTV/MahmoudAppleTV/1.ts
