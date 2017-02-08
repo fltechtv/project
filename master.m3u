@@ -117,9 +117,8 @@ http://astro1.rastream.com/hitz?type=.flv
 #EXTINF:13, tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/855_300.png" tvg-name="MIX FM"  group-title="MALAYSIA",MIX FM
 http://astro2.rastream.com/mix?type=.flv
 
-#EXTINF:13, group-title="ALL",- [COLOR red]test channel[/COLOR]
-http://tvdreams.org:50100/live/MahmoudAppleTV/MahmoudAppleTV/1.ts
-
 #EXTINF:13, tvg-logo="http://2.bp.blogspot.com/-h9y9pvj0qPs/UcvaHgu02rI/AAAAAAAADoI/bX_G75K7nus/s1600/Logo+LiteFM.png" tvg-name="LITE FM"  group-title="MALAYSIA",LITE FM
 http://astro1.rastream.com/lite?type=.flv
 
+#EXTINF:13, group-title="ALL",- [COLOR red]test channel[/COLOR]
+http://tvdreams.org:50100/live/MahmoudAppleTV/MahmoudAppleTV/1.ts
