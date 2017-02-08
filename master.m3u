@@ -21,7 +21,7 @@ http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AGSS.m3u8
 #EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-Vv3wHFJJVm8/V9bT06cXuZI/AAAAAAAAFAM/uzsNctpQ7SINqS9HKW9QX59eTjsoyQIGwCEw/w140-h105-p/trans7.png" tvg-name="TRANS 7"  group-title="INDONESIA",TRANS 7
 http://128.199.110.53/live/tv1/index.m3u8
 
-#EXTINF:13, tvg-id="EPG N/A" tvg-logo="http://pbs.twimg.com/profile_images/658688193651277824/Kv_cNNub_reasonably_small.png" tvg-name="ABC NEWS"  group-title="OTHERS",ABC NEWS
+#EXTINF:13, tvg-id="EPG N/A" tvg-logo="http://www.waldenmacht.com/wp-content/uploads/2015/02/abc_news.png" tvg-name="ABC NEWS"  group-title="OTHERS",ABC NEWS
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 
 #EXTINF:13, tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Antv_logo(2009).png" tvg-name="ANTV"  group-title="INDONESIA",ANTV
