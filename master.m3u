@@ -96,6 +96,9 @@ http://video7.stream.mx:1935/raxatv/raxatv/chunklist6.m3u8
 #EXTINF:13, tvg-logo="http://i.imgur.com/fuqo7Nw.png" tvg-name="iPANDA"  group-title="OTHERS",iPANDA
 http://fms.cntv.lxdns.com/live/flv/channel97.flv
 
+#EXTINF:13, tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/2/2/9/6/22961120/22961120,192x192,r:2.jpg" tvg-name="GUATEMALA TV"  group-title="OTHERS",GUATEMALA TV
+http://iphone-streaming.ustream.tv/uhls/22961120/streams/live/iphone/playlist.m3u8
+
 #EXTINF:13, group-title="ALL",- [COLOR yellow]FLTECHFM[/COLOR] - L/U:08/02/2017
 https://www.facebook.com/fltechtv/
 
