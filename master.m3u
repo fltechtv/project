@@ -63,6 +63,9 @@ http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 #EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-TsyBfW_olV4/V9paAYx6sMI/AAAAAAAAFEc/Fyj1E_cwwS0u1cIHT5JIsvhRwNq7kX3RACLcB/w140-h105-p/aljazeera.jpg" tvg-name="ALJAZEERA"  group-title="OTHERS",ALJAZEERA
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
 
+#EXTINF:13, tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/2/1/7/4/21743601/21743601,192x192,r:5.jpg" tvg-name="MOVIELAND FUNKIDS"  group-title="OTHERS",MOVIELAND FUNKIDS
+http://iphone-streaming.ustream.tv/uhls/21743601/streams/live/iphone/playlist.m3u8
+
 #EXTINF:13, tvg-logo="http://www.tv14.net/wp-content/uploads/2010/09/CCTV-7.jpg" tvg-name="CCTV7"  group-title="OTHERS",CCTV7
 http://125.88.92.166:30001/PLTV/88888956/224/3221227695/1.m3u8
 
@@ -92,9 +95,6 @@ http://video7.stream.mx:1935/raxatv/raxatv/chunklist6.m3u8
 
 #EXTINF:13, tvg-logo="http://i.imgur.com/fuqo7Nw.png" tvg-name="iPANDA"  group-title="OTHERS",iPANDA
 http://fms.cntv.lxdns.com/live/flv/channel97.flv
-
-#EXTINF:13, tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/2/1/7/4/21743601/21743601,192x192,r:5.jpg" tvg-name="MOVIELAND FUNKIDS"  group-title="OTHERS",MOVIELAND FUNKIDS
-http://iphone-streaming.ustream.tv/uhls/21743601/streams/live/iphone/playlist.m3u8
 
 #EXTINF:13, group-title="ALL",- [COLOR yellow]FLTECHFM[/COLOR] - L/U:08/02/2017
 https://www.facebook.com/fltechtv/
