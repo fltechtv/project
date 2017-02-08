@@ -27,9 +27,6 @@ http://128.199.110.53/live/tv1/index.m3u8
 #EXTINF:13, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/xcvdoQR.jpg" tvg-name="ABC NEWS"  group-title="OTHERS",ABC NEWS
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 
-#EXTINF:13, tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Antv_logo(2009).png" tvg-name="ANTV"  group-title="INDONESIA",ANTV
-http://188.166.209.95/live/tv2/index.m3u8
-
 #EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-WyMVeGn8X-M/V9bQH9vNIPI/AAAAAAAAFAM/bcni6b_sm0wvh7prhk3TUcL5zHlInxzXQCEw/w140-h105-p/rcti.png" tvg-name="RCTI"  group-title="INDONESIA",RCTI
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/index512.m3u8
 
