@@ -105,8 +105,8 @@ http://astro2.rastream.com/sinar?type=.flv
 #EXTINF:13, tvg-logo="http://android-artworks.25pp.com/fs08/2016/06/07/1/1_e46e1675a212d5682d0d354e957de16c_con.png" tvg-name="HITZ FM"  group-title="MALAYSIA",HITZ FM
 http://astro1.rastream.com/hitz?type=.flv
 
-#EXTINF:13, tvg-logo="http://www.lyngsat-logo.com/hires/mm/mix_astro.png" tvg-name="MIX FM"  group-title="MALAYSIA",MIX FM
+#EXTINF:13, tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/855_300.png" tvg-name="MIX FM"  group-title="MALAYSIA",MIX FM
 http://astro2.rastream.com/mix?type=.flv
 
-#EXTINF:13, tvg-logo="http://www.lyngsat-logo.com/hires/ll/lite_fm_astro.png" tvg-name="LITE FM"  group-title="MALAYSIA",LITE FM
+#EXTINF:13, tvg-logo="http://2.bp.blogspot.com/-h9y9pvj0qPs/UcvaHgu02rI/AAAAAAAADoI/bX_G75K7nus/s1600/Logo+LiteFM.png" tvg-name="LITE FM"  group-title="MALAYSIA",LITE FM
 http://astro1.rastream.com/lite?type=.flv
