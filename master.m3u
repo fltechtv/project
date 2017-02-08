@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:13, group-title="ALL",- [COLOR orange]FLTECHTV[/COLOR] - L/U:07/02/2017
+#EXTINF:13, group-title="ALL",- [COLOR orange]FLTECHTV[/COLOR] - L/U:08/02/2017
 https://www.facebook.com/fltechtv/
 
 #EXTINF:13, tvg-logo="http://i.imgur.com/DHXPbwy.png" tvg-name="FLTECH TV"  group-title="MALAYSIA",FLTECH TV
@@ -20,12 +20,6 @@ http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AGSS.m3u8
 
 #EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-Vv3wHFJJVm8/V9bT06cXuZI/AAAAAAAAFAM/uzsNctpQ7SINqS9HKW9QX59eTjsoyQIGwCEw/w140-h105-p/trans7.png" tvg-name="TRANS 7"  group-title="INDONESIA",TRANS 7
 http://128.199.110.53/live/tv1/index.m3u8
-
-#EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-FMJsNcgINYA/V9bUmckAEVI/AAAAAAAAFAM/76hWunyT6FQx2hGqR384my77VTnRp4QYACEw/w140-h105-p/transtv.png" tvg-name="TRANS TV"  group-title="INDONESIA",TRANS TV
-https://e19-us-1.nim.mivo.tv/sedz1j6exe/transtv2_all/sedz1j6exe/transtv2_288p/chunks.m3u8?nimblesessionid=317651627&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAxNiAyOjEwOjMwIEFNJmhhc2hfdmFsdWU9L2IyMWpMMy9kMWxtaGNSV3ZRZy9uQT09JnZhbGlkbWludXRlcz0xMCZpZD1FVjE1NV80MF8xMTJfNTNfMzZfNjBfNDF8djQtd2VifDExLzI1LzIwMTYgMjoxMCBBTXwzNi44MC44My4xNg==
-
-#EXTINF:13, tvg-logo="http://images-mediawiki-sites.thefullwiki.org/08/4/1/6/38174284232433712.png" tvg-name="INDOSIAR"  group-title="INDONESIA",INDOSIAR
-http://a-minol1-9918c9e6c6-falestin-gaza-aleppo.reupvideo.com/stream/46922a0880a8f11f8f69cbb52b1396be/08419be897405321542838d77f855226/f7664060cc52bc6f3d620bcedc94a4b6/index.m3u8
 
 #EXTINF:13, tvg-logo="http://sakeena.net/wp-content/uploads/sctv-logo.jpg" tvg-name="SCTV"  group-title="INDONESIA",SCTV
 http://128.199.187.12/live/tv1/index.m3u8
@@ -54,6 +48,9 @@ http://118.98.221.131/live/smil:tvedukasi.smil/playlist.m3u8
 #EXTINF:13, tvg-logo="http://www.anneahira.com/images/metrotv.jpg" tvg-name="METRO TV"  group-title="INDONESIA",METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w345283553_b216000_sleng.m3u8
 
+#EXTINF:13, tvg-logo="http://www.kompas.tv/assets/assets/logo.png" tvg-name="KOMPAS TV"  group-title="INDONESIA",KOMPAS TV
+rtmp://43.245.183.170/kompastv/ playpath=live.stream swfUrl=http://www.widih.com/swf/jwplayer.flash.swf pageUrl=http://www.widih.com/watchtv/455/kompastv
+
 #EXTINF:13, tvg-logo="http://tv.7emirate.com/wp-content/uploads/2015/04/France24.png" tvg-name="FRANCE24"  group-title="OTHERS",FRANCE 24
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 
@@ -65,9 +62,6 @@ http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8?ttp://pl
 
 #EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-C2-p1lm6HMs/V9pbqF4mDVI/AAAAAAAAFEo/I_hFsdZ-bLgd7t0IqmQqX6-nWEjpLlVgQCLcB/w140-h105-p/nasatv.png" tvg-name="NASA TV"  group-title="OTHERS",NASA TV
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
-
-#EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-119XCBW581E/V9parCBJZ6I/AAAAAAAAFEk/X0K8NT8cJWEya18aDMUiiWOIQOgpkiiCQCLcB/w140-h105-p/nhkworld.png" tvg-name="NHK WORLD"  group-title="OTHERS",NHK WORLD
-http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
 
 #EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-TsyBfW_olV4/V9paAYx6sMI/AAAAAAAAFEc/Fyj1E_cwwS0u1cIHT5JIsvhRwNq7kX3RACLcB/w140-h105-p/aljazeera.jpg" tvg-name="ALJAZEERA"  group-title="OTHERS",ALJAZEERA
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
