@@ -33,6 +33,9 @@ http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/index512.m3u8
 #EXTINF:13, tvg-logo="https://scontent.cdninstagram.com/t51.2885-19/s150x150/14719243_372953136381590_1816645839062302720_a.jpg" tvg-name="MNCTV"  group-title="INDONESIA",MNCTV
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000022/index512.m3u8
 
+#EXTINF:13, tvg-logo="http://www.indovision.tv/userfiles/image/channel/update_june_mncmusic.jpg" tvg-name="MUSIC CHANNEL"  group-title="INDONESIA",MUSIC CHANNEL
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000039/index.m3u8
+
 #EXTINF:13, tvg-logo="http://i.imgur.com/0QG8VwN.png" tvg-name="TVRI"  group-title="INDONESIA",TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
 
