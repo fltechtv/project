@@ -3,67 +3,67 @@
 #EXTINF:13, group-title="ALL",- [COLOR orange]FLTECHTV[/COLOR] - L/U:08/02/2017
 https://www.facebook.com/fltechtv/
 
-#EXTINF:13, tvg-logo="http://i.imgur.com/DHXPbwy.png" tvg-name="FLTECH TV"  group-title="MALAYSIA",FLTECH TV
-http%3a%2f%2fiphone-streaming.ustream.tv%2fuhls%2f22724120%2fstreams%2flive%2fiphone%2fplaylist.m3u8
+#EXTINF:13, tvg-logo="http://i.imgur.com/aXuZL8N.png" tvg-name="FLTECH TV"  group-title="MALAYSIA",FLTECH TV
+http://iphone-streaming.ustream.tv/uhls/22724120/streams/live/iphone/playlist.m3u8
 
-#EXTINF:13, tvg-logo="http://img.astroawani.com/2013-04/61365010299_295x200.jpg" tvg-name="ASTRO AWANI"  group-title="MALAYSIA",ASTRO AWANI
+#EXTINF:13, tvg-logo="https://cdn.apkmonk.com/logos/my.com.astro.awani_150x150.png" tvg-name="ASTRO AWANI"  group-title="MALAYSIA",ASTRO AWANI
 http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer5.m3u8
 
-#EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-GVfGPJYgyT0/V9bO2aJq-4I/AAAAAAAAFAM/_sGZXfCP44wDDZc8Fnk0mzc40Z2iA6drwCEw/w140-h105-p/bernama.png" tvg-name="BERNAMA TV"  group-title="MALAYSIA",BERNAMA TV
+#EXTINF:13, tvg-logo="http://www.streamytv.net/wp-content/uploads/2016/05/Bernama-TV.png" tvg-name="BERNAMA TV"  group-title="MALAYSIA",BERNAMA TV
 http://ss2.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8
 
-#EXTINF:13, tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/1/2/7/6/12762028/12762028_18765029_avatar-green_1371578928,192x192,r:1.jpg" tvg-name="ANIMAL PLANET L!VE"  group-title="OTHERS",ANIMAL PLANET L!VE
+#EXTINF:13, tvg-logo="http://i.imgur.com/UBDRzb6.png" tvg-name="ANIMAL PLANET L!VE"  group-title="OTHERS",ANIMAL PLANET L!VE
 http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
 
-#EXTINF:13, tvg-logo="http://www.freeetv.com/images/01_logo/bloomberg_tv.jpg" tvg-name="BLOOMBERGTV"  group-title="OTHERS",BLOOMBERGTV
+#EXTINF:13, tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/06/Bloomberg-TV.png" tvg-name="BLOOMBERGTV"  group-title="OTHERS",BLOOMBERGTV
 http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M440.m3u8
 
-#EXTINF:13, tvg-logo="http://www.marketingmagazine.com.my/images/stories/2014/goshop_logo.jpg" tvg-name="ASTRO GO SHOP"  group-title="MALAYSIA",ASTRO GO SHOP
+#EXTINF:13, tvg-logo="https://cdn.apkmonk.com/logos/my.com.goshop.app_150x150.png" tvg-name="ASTRO GO SHOP"  group-title="MALAYSIA",ASTRO GO SHOP
 http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AGSS.m3u8
 
-#EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-Vv3wHFJJVm8/V9bT06cXuZI/AAAAAAAAFAM/uzsNctpQ7SINqS9HKW9QX59eTjsoyQIGwCEw/w140-h105-p/trans7.png" tvg-name="TRANS 7"  group-title="INDONESIA",TRANS 7
+#EXTINF:13, tvg-logo="http://www.streamytv.net/wp-content/uploads/2016/03/Trans7-TV.png" tvg-name="TRANS 7"  group-title="INDONESIA",TRANS 7
 http://128.199.110.53/live/tv1/index.m3u8
 
-#EXTINF:13, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/xcvdoQR.jpg" tvg-name="ABC NEWS"  group-title="OTHERS",ABC NEWS
+#EXTINF:13, tvg-id="EPG N/A" tvg-logo="https://d2e70e9yced57e.cloudfront.net/common/profile/images/150/abc-news_182613903729i.png" tvg-name="ABC NEWS"  group-title="OTHERS",ABC NEWS
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 
-#EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-WyMVeGn8X-M/V9bQH9vNIPI/AAAAAAAAFAM/bcni6b_sm0wvh7prhk3TUcL5zHlInxzXQCEw/w140-h105-p/rcti.png" tvg-name="RCTI"  group-title="INDONESIA",RCTI
+#EXTINF:13, tvg-logo="http://www.indostreamix.tv/wp-content/uploads/2016/05/rcti-150x150.png" tvg-name="RCTI"  group-title="INDONESIA",RCTI
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/index512.m3u8
 
-#EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-DcFfGUsmZTM/V9bXvIHpNTI/AAAAAAAAFAM/teVhUEHaByEs2c63TjM13KL-QprZWRQqQCEw/w140-h105-p/mnctv.png" tvg-name="MNCTV"  group-title="INDONESIA",MNCTV
+#EXTINF:13, tvg-logo="https://scontent.cdninstagram.com/t51.2885-19/s150x150/14719243_372953136381590_1816645839062302720_a.jpg" tvg-name="MNCTV"  group-title="INDONESIA",MNCTV
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000022/index512.m3u8
 
-#EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-YsWyOL6L6-4/V9bYZLo8L2I/AAAAAAAAFAM/Gh4Np6EfgcY4zUAUEqT5QOQ1UMD8WgxzwCEw/w140-h105-p/tvri.png" tvg-name="TVRI"  group-title="INDONESIA",TVRI
+#EXTINF:13, tvg-logo="http://i.imgur.com/0QG8VwN.png" tvg-name="TVRI"  group-title="INDONESIA",TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
 
-#EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-PyziaOI3V3s/V9bbFntRDQI/AAAAAAAAFAM/fwXOxzHcdpgit4q_6qI15FronFV-MFg4wCEw/w140-h105-p/inewstv.png" tvg-name="INEWSTV"  group-title="INDONESIA",INEWSTV
+#EXTINF:13, tvg-logo="https://www.indovision.tv/userfiles/image/channel/inews_150x150px.jpg" tvg-name="INEWSTV"  group-title="INDONESIA",INEWSTV
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000029/index512.m3u8
 
-#EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-5e2cHNi8dMY/V9bviB78yyI/AAAAAAAAFBU/vqVL2LDw6_QnPb7wre_na2ZfhIhpNZa9gCEw/w140-h105-p/globaltv.png" tvg-name="GLOBAL TV"  group-title="INDONESIA",GLOBAL TV
+#EXTINF:13, tvg-logo="http://www.alita-indonesia.com/assets/client/globaltv.jpg" tvg-name="GLOBAL TV"  group-title="INDONESIA",GLOBAL TV
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000041/index512.m3u8
 
-#EXTINF:13, tvg-logo="https://4.bp.blogspot.com/-_qFCklt6wso/ULrqopz6ZKI/AAAAAAAAAWw/0YM6R5D4Oa0/s1600/TV+Edukasi.jpg" tvg-name="TV EDUKASI"  group-title="INDONESIA",TV EDUKASI
+#EXTINF:13, tvg-logo="http://www.streamytv.net/wp-content/uploads/2016/03/TV-Edukasi.png" tvg-name="TV EDUKASI"  group-title="INDONESIA",TV EDUKASI
 http://118.98.221.131/live/smil:tvedukasi.smil/playlist.m3u8
 
-#EXTINF:13, tvg-logo="http://www.anneahira.com/images/metrotv.jpg" tvg-name="METRO TV"  group-title="INDONESIA",METRO TV
+#EXTINF:13, tvg-logo="http://i.imgur.com/JvHpuQS.png" tvg-name="METRO TV"  group-title="INDONESIA",METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w345283553_b216000_sleng.m3u8
 
-#EXTINF:13, tvg-logo="http://tv.7emirate.com/wp-content/uploads/2015/04/France24.png" tvg-name="FRANCE24"  group-title="OTHERS",FRANCE 24
+#EXTINF:13, tvg-logo="http://www.stream4free.top/images/avatars/france24.png" tvg-name="FRANCE24"  group-title="OTHERS",FRANCE 24
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 
-#EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-8FMlfzPckTo/V9y4Mu-RzDI/AAAAAAAAFGo/stWztrktM-w3FMvBJOT1UnEvLuhEsKhJgCLcB/w140-h105-p/arirang_logo%2B%25281%2529.png" tvg-name="ARIRANG TV"  group-title="OTHERS",ARIRANG TV
+#EXTINF:13, tvg-logo="http://www.tvonmobile.net/wp-content/uploads/2015/02/online-tv-arirang-150x150.jpg" tvg-name="ARIRANG TV"  group-title="OTHERS",ARIRANG TV
 http://iphone-streaming.ustream.tv/uhls/22690676/streams/live/iphone/playlist.m3u8
 
-#EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-J2qhWtxJxP4/V9ypkUitlxI/AAAAAAAAFF0/5fdL7oiAn8QgNuk4vvxIi4-qY8dXMNAOQCLcB/w140-h105-p/dwtv.png" tvg-name="DW TV"  group-title="OTHERS",DW TV
+#EXTINF:13, tvg-logo="https://d2zf46hdfbx9e5.cloudfront.net/DW+for+Smart+TV%2F3739938.png" tvg-name="DW TV"  group-title="OTHERS",DW TV
 http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8?ttp://playback01.aotg-video.astro.com.my/AOTGHLS/master_AWANI.m3u8
 
-#EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-C2-p1lm6HMs/V9pbqF4mDVI/AAAAAAAAFEo/I_hFsdZ-bLgd7t0IqmQqX6-nWEjpLlVgQCLcB/w140-h105-p/nasatv.png" tvg-name="NASA TV"  group-title="OTHERS",NASA TV
+#EXTINF:13, tvg-logo="http://www.glaz.tv/images/logos/tv/big/nasa-tv.jpg" tvg-name="NASA TV"  group-title="OTHERS",NASA TV
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 
-#EXTINF:13, tvg-logo="https://lh3.googleusercontent.com/-TsyBfW_olV4/V9paAYx6sMI/AAAAAAAAFEc/Fyj1E_cwwS0u1cIHT5JIsvhRwNq7kX3RACLcB/w140-h105-p/aljazeera.jpg" tvg-name="ALJAZEERA"  group-title="OTHERS",ALJAZEERA
+#EXTINF:13, tvg-logo="https://pmcdeadline2.files.wordpress.com/2013/10/al-jazeera-america__130605200221-150x150__130823165440.jpg?w=240" tvg-name="ALJAZEERA"  group-title="OTHERS",ALJAZEERA
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
 
-#EXTINF:13, tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/2/1/7/4/21743601/21743601,192x192,r:5.jpg" tvg-name="MOVIELAND FUNKIDS"  group-title="OTHERS",MOVIELAND FUNKIDS
+#EXTINF:13, tvg-logo="http://i.imgur.com/4Mf0QBh.jpg" tvg-name="MOVIELAND FUNKIDS"  group-title="OTHERS",MOVIELAND FUNKIDS
 http://iphone-streaming.ustream.tv/uhls/21743601/streams/live/iphone/playlist.m3u8
 
 #EXTINF:13, tvg-logo="http://www.tv14.net/wp-content/uploads/2010/09/CCTV-7.jpg" tvg-name="CCTV7"  group-title="OTHERS",CCTV7
