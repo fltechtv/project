@@ -1,0 +1,130 @@
+#EXTM3U
+
+#EXTINF:13, group-title="ALL",- [COLOR orange]FLTECHTV[/COLOR] - L/U:13/02/2017
+https://www.facebook.com/fltechtv/
+
+#EXTINF:13, tvg-logo="http://i.imgur.com/aXuZL8N.png" tvg-name="FLTECH TV"  group-title="MALAYSIA",FLTECH TV
+http://iphone-streaming.ustream.tv/uhls/22724120/streams/live/iphone/playlist.m3u8
+
+#EXTINF:13, tvg-logo="https://cdn.apkmonk.com/logos/my.com.astro.awani_150x150.png" tvg-name="ASTRO AWANI"  group-title="MALAYSIA",ASTRO AWANI
+http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer5.m3u8
+
+#EXTINF:13, tvg-logo="http://www.streamytv.net/wp-content/uploads/2016/05/Bernama-TV.png" tvg-name="BERNAMA TV"  group-title="MALAYSIA",BERNAMA TV
+http://ss2.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8
+
+#EXTINF:13, tvg-logo="http://i.imgur.com/UBDRzb6.png" tvg-name="ANIMAL PLANET L!VE"  group-title="OTHERS",ANIMAL PLANET L!VE
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+
+#EXTINF:13, tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/06/Bloomberg-TV.png" tvg-name="BLOOMBERGTV"  group-title="OTHERS",BLOOMBERGTV
+http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M440.m3u8
+
+#EXTINF:13, tvg-logo="https://cdn.apkmonk.com/logos/my.com.goshop.app_150x150.png" tvg-name="ASTRO GO SHOP"  group-title="MALAYSIA",ASTRO GO SHOP
+http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AGSS.m3u8
+
+#EXTINF:13, tvg-id="EPG N/A" tvg-logo="https://d2e70e9yced57e.cloudfront.net/common/profile/images/150/abc-news_182613903729i.png" tvg-name="ABC NEWS"  group-title="OTHERS",ABC NEWS
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+
+#EXTINF:13, tvg-logo="http://www.indostreamix.tv/wp-content/uploads/2016/05/rcti-150x150.png" tvg-name="RCTI"  group-title="INDONESIA",RCTI
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/index512.m3u8
+
+#EXTINF:13, tvg-logo="https://www.indovision.tv/userfiles/image/channel/drama_150x150.jpg" tvg-name="DRAMA CHANNEL"  group-title="INDONESIA",DRAMA CHANNEL
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000074/index.m3u8
+
+#EXTINF:13, tvg-logo="https://scontent.cdninstagram.com/t51.2885-19/s150x150/14719243_372953136381590_1816645839062302720_a.jpg" tvg-name="MNCTV"  group-title="INDONESIA",MNCTV
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000022/index512.m3u8
+
+#EXTINF:13, tvg-logo="http://www.indovision.tv/userfiles/image/channel/update_june_mncmusic.jpg" tvg-name="MUSIC CHANNEL"  group-title="INDONESIA",MUSIC CHANNEL
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000039/index.m3u8
+
+#EXTINF:13, tvg-logo="http://i.imgur.com/0QG8VwN.png" tvg-name="TVRI"  group-title="INDONESIA",TVRI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
+
+#EXTINF:13, tvg-logo="https://www.indovision.tv/userfiles/image/channel/inews_150x150px.jpg" tvg-name="INEWSTV"  group-title="INDONESIA",INEWSTV
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000029/index512.m3u8
+
+#EXTINF:13, tvg-logo="http://www.alita-indonesia.com/assets/client/globaltv.jpg" tvg-name="GLOBAL TV"  group-title="INDONESIA",GLOBAL TV
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000041/index512.m3u8
+
+#EXTINF:13, tvg-logo="http://www.streamytv.net/wp-content/uploads/2016/03/TV-Edukasi.png" tvg-name="TV EDUKASI"  group-title="INDONESIA",TV EDUKASI
+http://118.98.221.131/live/smil:tvedukasi.smil/playlist.m3u8
+
+#EXTINF:13, tvg-logo="http://i.imgur.com/JvHpuQS.png" tvg-name="METRO TV"  group-title="INDONESIA",METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w345283553_b216000_sleng.m3u8
+
+#EXTINF:13, tvg-logo="http://www.stream4free.top/images/avatars/france24.png" tvg-name="FRANCE24"  group-title="OTHERS",FRANCE 24
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
+#EXTINF:13, tvg-logo="http://www.tvonmobile.net/wp-content/uploads/2015/02/online-tv-arirang-150x150.jpg" tvg-name="ARIRANG TV"  group-title="OTHERS",ARIRANG TV
+http://iphone-streaming.ustream.tv/uhls/22690676/streams/live/iphone/playlist.m3u8
+
+#EXTINF:13, tvg-logo="https://d2zf46hdfbx9e5.cloudfront.net/DW+for+Smart+TV%2F3739938.png" tvg-name="DW TV"  group-title="OTHERS",DW TV
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8?ttp://playback01.aotg-video.astro.com.my/AOTGHLS/master_AWANI.m3u8
+
+#EXTINF:13, tvg-logo="http://www.glaz.tv/images/logos/tv/big/nasa-tv.jpg" tvg-name="NASA TV"  group-title="OTHERS",NASA TV
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+
+#EXTINF:13, tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/04/Jeem-TV.jpg" tvg-name="JEEM TV"  group-title="OTHERS",JEEM TV
+http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream1/masterPlaylist.m3u8
+
+#EXTINF:13, tvg-logo="https://pmcdeadline2.files.wordpress.com/2013/10/al-jazeera-america__130605200221-150x150__130823165440.jpg?w=240" tvg-name="ALJAZEERA"  group-title="OTHERS",ALJAZEERA
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
+
+#EXTINF:13, tvg-logo="http://i.imgur.com/4Mf0QBh.jpg" tvg-name="MOVIELAND FUNKIDS"  group-title="OTHERS",MOVIELAND FUNKIDS
+http://iphone-streaming.ustream.tv/uhls/21743601/streams/live/iphone/playlist.m3u8
+
+#EXTINF:13, tvg-logo="http://i.imgur.com/Q8pqNTa.jpg" tvg-name="CCTV7"  group-title="OTHERS",CCTV7
+http://125.88.92.166:30001/PLTV/88888956/224/3221227695/1.m3u8
+
+#EXTINF:13, tvg-logo="http://www.mai-ru.com/beta/mage/CCTV9.jpg" tvg-name="CCTV9"  group-title="OTHERS",CCTV9
+http://125.88.92.166:30001/PLTV/88888956/224/3221227669/1.m3u8
+
+#EXTINF:13, tvg-logo="http://aliyunimg.9ku.com/pic/gstx/4/34371.jpg" tvg-name="CCTV12"  group-title="OTHERS",CCTV12
+http://125.88.92.166:30001/PLTV/88888956/224/3221227724/1.m3u8
+
+#EXTINF:13, tvg-logo="http://www.swiftpic.org/image.uploads/12-02-2017/original-72991e63b21839d16dfc0128d3d12706.png" tvg-name="CCTV13"  group-title="OTHERS",CCTV13
+http://125.88.92.166:30001/PLTV/88888956/224/3221227701/1.m3u8
+
+#EXTINF:13, tvg-logo="http://www.swiftpic.org/image.uploads/12-02-2017/original-2e1fcae7417535ccaf2795d9b9103f85.png" tvg-name="CCTV14"  group-title="OTHERS",CCTV14
+http://125.88.92.166:30001/PLTV/88888956/224/3221227675/1.m3u8
+
+#EXTINF:13, tvg-logo="http://www.swiftpic.org/image.uploads/12-02-2017/original-bf52626258bcb834887645dc3d76cb1d.png" tvg-name="CCTV15"  group-title="OTHERS",CCTV15
+http://125.88.92.166:30001/PLTV/88888956/224/3221227727/1.m3u8
+
+#EXTINF:13, tvg-logo="http://img.brothersoft.com/wap/apkimg/iconimg/4/icon_99364.png" tvg-name="MECCA TV"  group-title="OTHERS",MECCA TV
+http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel6/_definst_/live/stream1.m3u8
+
+#EXTINF:13, tvg-logo="http://www.swiftpic.org/image.uploads/12-02-2017/original-431bec9298c4f187b97c0ea3c905da35.jpg" tvg-name="THE NOOR TV"  group-title="OTHERS",THE NOOR TV
+http://iphone-streaming.ustream.tv/uhls/1738126/streams/live/iphone/playlist.m3u8
+
+#EXTINF:13, tvg-logo="http://www.swiftpic.org/image.uploads/12-02-2017/original-a8c623611851e7a4f0991bf93393b86f.jpg" tvg-name="MADINAH TV"  group-title="OTHERS",MADINAH TV
+http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel7/_definst_/live/stream2.m3u8
+
+#EXTINF:13, tvg-logo="http://www.swiftpic.org/image.uploads/12-02-2017/original-eb9db2f6b84797e159ef082646e4849e.jpg" tvg-name="RAXA TV"  group-title="OTHERS",RAXA TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist6.m3u8
+
+#EXTINF:13, tvg-logo="http://scontent.cdninstagram.com/t51.2885-19/10483340_767837833279142_1300018478_a.jpg" tvg-name="iPANDA"  group-title="OTHERS",iPANDA
+http://fms.cntv.lxdns.com/live/flv/channel97.flv
+
+#EXTINF:13, tvg-logo="http://www.streamytv.net/wp-content/uploads/2016/05/Kass-TV-Kenya.jpg" tvg-name="KASSTV"  group-title="OTHERS",KASSTV
+http://iphone-streaming.ustream.tv/uhls/22189582/streams/live/iphone/playlist.m3u8
+
+#EXTINF:13, tvg-logo="http://ynuk.tv/wp-content/uploads/2014/01/London-Live-TV-150x150.png" tvg-name="LONDON LIVE"  group-title="OTHERS",LONDON LIVE
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+
+#EXTINF:13, group-title="ALL",- [COLOR yellow]FLTECHFM[/COLOR] - L/U:13/02/2017
+https://www.facebook.com/fltechtv/
+
+#EXTINF:13, tvg-logo="https://scontent.cdninstagram.com/t51.2885-19/s150x150/15253273_695503020627793_8494808196039311360_a.jpg" tvg-name="ERA FM"  group-title="MALAYSIA",ERA FM
+http://astro2.rastream.com/era?type=.flv
+
+#EXTINF:13, tvg-logo="http://3.bp.blogspot.com/-ilYPwpZ0IMc/UJaU0I3bocI/AAAAAAAAA8Y/vIS4G_-oBLU/s1600/Sinar-FM-Malaysia-Radio-Online-Streaming.png" tvg-name="SINAR FM"  group-title="MALAYSIA",SINAR FM
+http://astro2.rastream.com/sinar?type=.flv
+
+#EXTINF:13, tvg-logo="https://cdn.apkmonk.com/logos/net.amp.hitz_150x150.png" tvg-name="HITZ FM"  group-title="MALAYSIA",HITZ FM
+http://astro1.rastream.com/hitz?type=.flv
+
+#EXTINF:13, tvg-logo="http://scontent.cdninstagram.com/t51.2885-19/11312543_849308858491012_1154147043_a.jpg" tvg-name="MIX FM"  group-title="MALAYSIA",MIX FM
+http://astro2.rastream.com/mix?type=.flv
+
+#EXTINF:13, tvg-logo="http://www.fmradio.me/wp-content/uploads/2013/02/Lite-FM-Logo1-150x150.jpg" tvg-name="LITE FM"  group-title="MALAYSIA",LITE FM
+http://astro1.rastream.com/lite?type=.flv
